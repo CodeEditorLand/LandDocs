@@ -62,7 +62,6 @@ to VS Code that implement GitHub and Microsoft authentication: their providerId&
 	<tr>
 		<td>
 			<a name="providerId">
-			</a>
 			<span class="ts" id="3200" data-target="#details-3200" data-toggle="collapse">
 				<span class="ident">
 					providerId
@@ -86,7 +85,6 @@ to VS Code that implement GitHub and Microsoft authentication: their providerId&
 	<tr>
 		<td>
 			<a name="scopes">
-			</a>
 			<span class="ts" id="3201" data-target="#details-3201" data-toggle="collapse">
 				<span class="ident">
 					scopes
@@ -111,7 +109,6 @@ to VS Code that implement GitHub and Microsoft authentication: their providerId&
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="3202" data-target="#details-3202" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -198,7 +195,6 @@ to VS Code that implement GitHub and Microsoft authentication: their providerId&
 	<tr>
 		<td>
 			<a name="providerId">
-			</a>
 			<span class="ts" id="3206" data-target="#details-3206" data-toggle="collapse">
 				<span class="ident">
 					providerId
@@ -222,7 +218,6 @@ to VS Code that implement GitHub and Microsoft authentication: their providerId&
 	<tr>
 		<td>
 			<a name="scopes">
-			</a>
 			<span class="ts" id="3207" data-target="#details-3207" data-toggle="collapse">
 				<span class="ident">
 					scopes
@@ -247,7 +242,6 @@ to VS Code that implement GitHub and Microsoft authentication: their providerId&
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="3208" data-target="#details-3208" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -378,7 +372,6 @@ by extensions.</li>
 	<tr>
 		<td>
 			<a name="command">
-			</a>
 			<span class="ts" id="2695" data-target="#details-2695" data-toggle="collapse">
 				<span class="ident">
 					command
@@ -402,7 +395,6 @@ by extensions.</li>
 	<tr>
 		<td>
 			<a name="rest">
-			</a>
 			<span class="ts" id="2696" data-target="#details-2696" data-toggle="collapse">
 				<span>
 					...
@@ -489,7 +481,6 @@ treated as internal commands.</p>
 	<tr>
 		<td>
 			<a name="filterInternal">
-			</a>
 			<span class="ts" id="2699" data-target="#details-2699" data-toggle="collapse">
 				<span class="ident">
 					filterInternal
@@ -572,7 +563,6 @@ will cause an error.</p>
 	<tr>
 		<td>
 			<a name="command">
-			</a>
 			<span class="ts" id="2676" data-target="#details-2676" data-toggle="collapse">
 				<span class="ident">
 					command
@@ -596,7 +586,6 @@ will cause an error.</p>
 	<tr>
 		<td>
 			<a name="callback">
-			</a>
 			<span class="ts" id="2677" data-target="#details-2677" data-toggle="collapse">
 				<span class="ident">
 					callback
@@ -625,7 +614,6 @@ will cause an error.</p>
 	<tr>
 		<td>
 			<a name="thisArg">
-			</a>
 			<span class="ts" id="2681" data-target="#details-2681" data-toggle="collapse">
 				<span class="ident">
 					thisArg
@@ -706,7 +694,6 @@ callback executes.</p>
 	<tr>
 		<td>
 			<a name="command">
-			</a>
 			<span class="ts" id="2684" data-target="#details-2684" data-toggle="collapse">
 				<span class="ident">
 					command
@@ -730,7 +717,6 @@ callback executes.</p>
 	<tr>
 		<td>
 			<a name="callback">
-			</a>
 			<span class="ts" id="2685" data-target="#details-2685" data-toggle="collapse">
 				<span class="ident">
 					callback
@@ -775,7 +761,6 @@ callback executes.</p>
 	<tr>
 		<td>
 			<a name="thisArg">
-			</a>
 			<span class="ts" id="2691" data-target="#details-2691" data-toggle="collapse">
 				<span class="ident">
 					thisArg
@@ -858,7 +843,6 @@ callback executes.</p>
 	<tr>
 		<td>
 			<a name="id">
-			</a>
 			<span class="ts" id="3195" data-target="#details-3195" data-toggle="collapse">
 				<span class="ident">
 					id
@@ -886,7 +870,6 @@ callback executes.</p>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="3196" data-target="#details-3196" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -1040,7 +1023,6 @@ to <code>undefined</code>.</p>
 	<tr>
 		<td>
 			<a name="breakpoints">
-			</a>
 			<span class="ts" id="3175" data-target="#details-3175" data-toggle="collapse">
 				<span class="ident">
 					breakpoints
@@ -1080,7 +1062,6 @@ to <code>undefined</code>.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -1109,7 +1090,6 @@ If the source descriptor uses a reference number, a specific debug Uri (scheme &
 	<tr>
 		<td>
 			<a name="source">
-			</a>
 			<span class="ts" id="3181" data-target="#details-3181" data-toggle="collapse">
 				<span class="ident">
 					source
@@ -1137,7 +1117,6 @@ If the source descriptor uses a reference number, a specific debug Uri (scheme &
 	<tr>
 		<td>
 			<a name="session">
-			</a>
 			<span class="ts" id="3182" data-target="#details-3182" data-toggle="collapse">
 				<span class="ident">
 					session
@@ -1210,7 +1189,6 @@ Registering more than one DebugAdapterDescriptorFactory for a debug type results
 	<tr>
 		<td>
 			<a name="debugType">
-			</a>
 			<span class="ts" id="3159" data-target="#details-3159" data-toggle="collapse">
 				<span class="ident">
 					debugType
@@ -1234,7 +1212,6 @@ Registering more than one DebugAdapterDescriptorFactory for a debug type results
 	<tr>
 		<td>
 			<a name="factory">
-			</a>
 			<span class="ts" id="3160" data-target="#details-3160" data-toggle="collapse">
 				<span class="ident">
 					factory
@@ -1310,7 +1287,6 @@ Registering more than one DebugAdapterDescriptorFactory for a debug type results
 	<tr>
 		<td>
 			<a name="debugType">
-			</a>
 			<span class="ts" id="3163" data-target="#details-3163" data-toggle="collapse">
 				<span class="ident">
 					debugType
@@ -1334,7 +1310,6 @@ Registering more than one DebugAdapterDescriptorFactory for a debug type results
 	<tr>
 		<td>
 			<a name="factory">
-			</a>
 			<span class="ts" id="3164" data-target="#details-3164" data-toggle="collapse">
 				<span class="ident">
 					factory
@@ -1416,7 +1391,6 @@ More than one provider can be registered for the same type.</p>
 	<tr>
 		<td>
 			<a name="debugType">
-			</a>
 			<span class="ts" id="3154" data-target="#details-3154" data-toggle="collapse">
 				<span class="ident">
 					debugType
@@ -1431,13 +1405,11 @@ More than one provider can be registered for the same type.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3155" data-target="#details-3155" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -1465,7 +1437,6 @@ More than one provider can be registered for the same type.</p>
 	<tr>
 		<td>
 			<a name="triggerKind">
-			</a>
 			<span class="ts" id="3156" data-target="#details-3156" data-toggle="collapse">
 				<span class="ident">
 					triggerKind
@@ -1552,7 +1523,6 @@ More than one provider can be registered for the same type.</p>
 	<tr>
 		<td>
 			<a name="breakpoints">
-			</a>
 			<span class="ts" id="3178" data-target="#details-3178" data-toggle="collapse">
 				<span class="ident">
 					breakpoints
@@ -1592,7 +1562,6 @@ More than one provider can be registered for the same type.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -1622,7 +1591,6 @@ Folder specific variables used in the configuration (e.g. &#39;${workspaceFolder
 	<tr>
 		<td>
 			<a name="folder">
-			</a>
 			<span class="ts" id="3167" data-target="#details-3167" data-toggle="collapse">
 				<span class="ident">
 					folder
@@ -1658,7 +1626,6 @@ Folder specific variables used in the configuration (e.g. &#39;${workspaceFolder
 	<tr>
 		<td>
 			<a name="nameOrConfiguration">
-			</a>
 			<span class="ts" id="3168" data-target="#details-3168" data-toggle="collapse">
 				<span class="ident">
 					nameOrConfiguration
@@ -1690,7 +1657,6 @@ Folder specific variables used in the configuration (e.g. &#39;${workspaceFolder
 	<tr>
 		<td>
 			<a name="parentSessionOrOptions">
-			</a>
 			<span class="ts" id="3169" data-target="#details-3169" data-toggle="collapse">
 				<span class="ident">
 					parentSessionOrOptions
@@ -1774,7 +1740,6 @@ Folder specific variables used in the configuration (e.g. &#39;${workspaceFolder
 	<tr>
 		<td>
 			<a name="session">
-			</a>
 			<span class="ts" id="3172" data-target="#details-3172" data-toggle="collapse">
 				<span class="ident">
 					session
@@ -1825,7 +1790,6 @@ Folder specific variables used in the configuration (e.g. &#39;${workspaceFolder
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -1987,7 +1951,6 @@ a system or user action — for example, in remote cases, a user may close a por
 	<tr>
 		<td>
 			<a name="target">
-			</a>
 			<span class="ts" id="2672" data-target="#details-2672" data-toggle="collapse">
 				<span class="ident">
 					target
@@ -2002,7 +1965,6 @@ a system or user action — for example, in remote cases, a user may close a por
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -2065,7 +2027,6 @@ way to open a text document inside the editor, not this function.</p>
 	<tr>
 		<td>
 			<a name="target">
-			</a>
 			<span class="ts" id="2669" data-target="#details-2669" data-toggle="collapse">
 				<span class="ident">
 					target
@@ -2194,7 +2155,6 @@ installed, uninstalled, enabled or disabled.</p>
 	<tr>
 		<td>
 			<a name="extensionId">
-			</a>
 			<span class="ts" id="3186" data-target="#details-3186" data-toggle="collapse">
 				<span class="ident">
 					extensionId
@@ -2274,7 +2234,6 @@ installed, uninstalled, enabled or disabled.</p>
 	<tr>
 		<td>
 			<a name="extensionId">
-			</a>
 			<span class="ts" id="3189" data-target="#details-3189" data-toggle="collapse">
 				<span class="ident">
 					extensionId
@@ -2395,7 +2354,6 @@ newly added and removed diagnostics.</p>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="3019" data-target="#details-3019" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -2470,7 +2428,6 @@ newly added and removed diagnostics.</p>
 	<tr>
 		<td>
 			<a name="resource">
-			</a>
 			<span class="ts" id="3015" data-target="#details-3015" data-toggle="collapse">
 				<span class="ident">
 					resource
@@ -2658,7 +2615,6 @@ match(&#39;*&#39;, doc); // 5
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3010" data-target="#details-3010" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -2682,7 +2638,6 @@ match(&#39;*&#39;, doc); // 5
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="3011" data-target="#details-3011" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -2758,7 +2713,6 @@ match(&#39;*&#39;, doc); // 5
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3129" data-target="#details-3129" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -2782,7 +2736,6 @@ match(&#39;*&#39;, doc); // 5
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3130" data-target="#details-3130" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -2857,7 +2810,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3027" data-target="#details-3027" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -2881,7 +2833,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3028" data-target="#details-3028" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -2905,7 +2856,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="3029" data-target="#details-3029" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -2983,7 +2933,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3032" data-target="#details-3032" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3007,7 +2956,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3033" data-target="#details-3033" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3082,7 +3030,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3117" data-target="#details-3117" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3106,7 +3053,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3118" data-target="#details-3118" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3187,7 +3133,6 @@ a common trigger character is <code>.</code> to trigger member completions.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3022" data-target="#details-3022" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3211,7 +3156,6 @@ a common trigger character is <code>.</code> to trigger member completions.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3023" data-target="#details-3023" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3235,7 +3179,6 @@ a common trigger character is <code>.</code> to trigger member completions.</p>
 	<tr>
 		<td>
 			<a name="triggerCharacters">
-			</a>
 			<span class="ts" id="3024" data-target="#details-3024" data-toggle="collapse">
 				<span>
 					...
@@ -3314,7 +3257,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3048" data-target="#details-3048" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3338,7 +3280,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3049" data-target="#details-3049" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3413,7 +3354,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3036" data-target="#details-3036" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3437,7 +3377,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3037" data-target="#details-3037" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3512,7 +3451,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3090" data-target="#details-3090" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3536,7 +3474,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3091" data-target="#details-3091" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3611,7 +3548,6 @@ The process stops when a provider returns a <code>non-falsy</code> or <code>non-
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3060" data-target="#details-3060" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3635,7 +3571,6 @@ The process stops when a provider returns a <code>non-falsy</code> or <code>non-
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3061" data-target="#details-3061" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3710,7 +3645,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3113" data-target="#details-3113" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3734,7 +3668,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3114" data-target="#details-3114" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3812,7 +3745,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3094" data-target="#details-3094" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3836,7 +3768,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3095" data-target="#details-3095" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3916,7 +3847,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3085" data-target="#details-3085" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -3940,7 +3870,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3086" data-target="#details-3086" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -3964,7 +3893,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="legend">
-			</a>
 			<span class="ts" id="3087" data-target="#details-3087" data-toggle="collapse">
 				<span class="ident">
 					legend
@@ -3979,7 +3907,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -4036,7 +3963,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3080" data-target="#details-3080" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4060,7 +3986,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3081" data-target="#details-3081" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4084,7 +4009,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="legend">
-			</a>
 			<span class="ts" id="3082" data-target="#details-3082" data-toggle="collapse">
 				<span class="ident">
 					legend
@@ -4099,7 +4023,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -4156,7 +4079,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3064" data-target="#details-3064" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4180,7 +4102,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3065" data-target="#details-3065" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4204,7 +4125,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="metaData">
-			</a>
 			<span class="ts" id="3066" data-target="#details-3066" data-toggle="collapse">
 				<span class="ident">
 					metaData
@@ -4281,7 +4201,6 @@ VS Code will evaluate the expression in the active debug session and will show t
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3056" data-target="#details-3056" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4305,7 +4224,6 @@ VS Code will evaluate the expression in the active debug session and will show t
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3057" data-target="#details-3057" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4383,7 +4301,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3121" data-target="#details-3121" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4407,7 +4324,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3122" data-target="#details-3122" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4482,7 +4398,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3052" data-target="#details-3052" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4506,7 +4421,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3053" data-target="#details-3053" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4581,7 +4495,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3040" data-target="#details-3040" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4605,7 +4518,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3041" data-target="#details-3041" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4680,7 +4592,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3098" data-target="#details-3098" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4704,7 +4615,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3099" data-target="#details-3099" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4728,7 +4638,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="firstTriggerCharacter">
-			</a>
 			<span class="ts" id="3100" data-target="#details-3100" data-toggle="collapse">
 				<span class="ident">
 					firstTriggerCharacter
@@ -4756,7 +4665,6 @@ of the selected provider will cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="moreTriggerCharacter">
-			</a>
 			<span class="ts" id="3101" data-target="#details-3101" data-toggle="collapse">
 				<span>
 					...
@@ -4835,7 +4743,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3072" data-target="#details-3072" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4859,7 +4766,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3073" data-target="#details-3073" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -4934,7 +4840,6 @@ defines the result of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3076" data-target="#details-3076" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -4958,7 +4863,6 @@ defines the result of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3077" data-target="#details-3077" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -5033,7 +4937,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3125" data-target="#details-3125" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -5057,7 +4960,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3126" data-target="#details-3126" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -5132,7 +5034,6 @@ valid result.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3104" data-target="#details-3104" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -5156,7 +5057,6 @@ valid result.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3105" data-target="#details-3105" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -5180,7 +5080,6 @@ valid result.</p>
 	<tr>
 		<td>
 			<a name="triggerCharacters">
-			</a>
 			<span class="ts" id="3106" data-target="#details-3106" data-toggle="collapse">
 				<span>
 					...
@@ -5263,7 +5162,6 @@ valid result.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3108" data-target="#details-3108" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -5278,13 +5176,11 @@ valid result.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3109" data-target="#details-3109" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -5299,13 +5195,11 @@ valid result.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="3110" data-target="#details-3110" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -5320,7 +5214,6 @@ valid result.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -5341,7 +5234,6 @@ valid result.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -5370,7 +5262,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="selector">
-			</a>
 			<span class="ts" id="3044" data-target="#details-3044" data-toggle="collapse">
 				<span class="ident">
 					selector
@@ -5394,7 +5285,6 @@ not cause a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3045" data-target="#details-3045" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -5469,7 +5359,6 @@ a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="3069" data-target="#details-3069" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -5541,7 +5430,6 @@ a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="language">
-			</a>
 			<span class="ts" id="3133" data-target="#details-3133" data-toggle="collapse">
 				<span class="ident">
 					language
@@ -5569,7 +5457,6 @@ a failure of the whole operation.</p>
 	<tr>
 		<td>
 			<a name="configuration">
-			</a>
 			<span class="ts" id="3134" data-target="#details-3134" data-toggle="collapse">
 				<span class="ident">
 					configuration
@@ -5644,7 +5531,6 @@ followed by the <a href="#workspace.onDidOpenTextDocument"><code>onDidOpenTextDo
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="3006" data-target="#details-3006" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -5668,7 +5554,6 @@ followed by the <a href="#workspace.onDidOpenTextDocument"><code>onDidOpenTextDo
 	<tr>
 		<td>
 			<a name="languageId">
-			</a>
 			<span class="ts" id="3007" data-target="#details-3007" data-toggle="collapse">
 				<span class="ident">
 					languageId
@@ -5763,7 +5648,6 @@ created by the extension.</p>
 	<tr>
 		<td>
 			<a name="id">
-			</a>
 			<span class="ts" id="3139" data-target="#details-3139" data-toggle="collapse">
 				<span class="ident">
 					id
@@ -5795,7 +5679,6 @@ created by the extension.</p>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="3140" data-target="#details-3140" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -5823,7 +5706,6 @@ created by the extension.</p>
 	<tr>
 		<td>
 			<a name="rootUri">
-			</a>
 			<span class="ts" id="3141" data-target="#details-3141" data-toggle="collapse">
 				<span class="ident">
 					rootUri
@@ -5965,7 +5847,6 @@ In such an environment, only CustomExecution tasks can be run.</li>
 	<tr>
 		<td>
 			<a name="task">
-			</a>
 			<span class="ts" id="2650" data-target="#details-2650" data-toggle="collapse">
 				<span class="ident">
 					task
@@ -6009,7 +5890,6 @@ In such an environment, only CustomExecution tasks can be run.</li>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -6037,7 +5917,6 @@ contributed through extensions.</p>
 	<tr>
 		<td>
 			<a name="filter">
-			</a>
 			<span class="ts" id="2647" data-target="#details-2647" data-toggle="collapse">
 				<span class="ident">
 					filter
@@ -6084,7 +5963,6 @@ contributed through extensions.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -6110,7 +5988,6 @@ contributed through extensions.</p>
 	<tr>
 		<td>
 			<a name="type">
-			</a>
 			<span class="ts" id="2643" data-target="#details-2643" data-toggle="collapse">
 				<span class="ident">
 					type
@@ -6134,7 +6011,6 @@ contributed through extensions.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="2644" data-target="#details-2644" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -6411,7 +6287,6 @@ when <a href="#window.showInputBox">window.showInputBox</a> does not offer the r
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="2824" data-target="#details-2824" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -6450,7 +6325,6 @@ when <a href="#window.showInputBox">window.showInputBox</a> does not offer the r
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -6525,7 +6399,6 @@ when <a href="#window.showQuickPick">window.showQuickPick</a> does not offer the
 	<tr>
 		<td>
 			<a name="alignment">
-			</a>
 			<span class="ts" id="2864" data-target="#details-2864" data-toggle="collapse">
 				<span class="ident">
 					alignment
@@ -6552,7 +6425,6 @@ when <a href="#window.showQuickPick">window.showQuickPick</a> does not offer the
 	<tr>
 		<td>
 			<a name="priority">
-			</a>
 			<span class="ts" id="2865" data-target="#details-2865" data-toggle="collapse">
 				<span class="ident">
 					priority
@@ -6627,7 +6499,6 @@ directory if it exists.</p>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="2868" data-target="#details-2868" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -6654,7 +6525,6 @@ directory if it exists.</p>
 	<tr>
 		<td>
 			<a name="shellPath">
-			</a>
 			<span class="ts" id="2869" data-target="#details-2869" data-toggle="collapse">
 				<span class="ident">
 					shellPath
@@ -6681,7 +6551,6 @@ directory if it exists.</p>
 	<tr>
 		<td>
 			<a name="shellArgs">
-			</a>
 			<span class="ts" id="2870" data-target="#details-2870" data-toggle="collapse">
 				<span class="ident">
 					shellArgs
@@ -6764,7 +6633,6 @@ allows specifying shell args in
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2872" data-target="#details-2872" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -6832,7 +6700,6 @@ allows specifying shell args in
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2874" data-target="#details-2874" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -6905,7 +6772,6 @@ the characteristics of the new terminal.
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2729" data-target="#details-2729" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -6973,7 +6839,6 @@ the characteristics of the new terminal.
 	<tr>
 		<td>
 			<a name="viewId">
-			</a>
 			<span class="ts" id="2883" data-target="#details-2883" data-toggle="collapse">
 				<span class="ident">
 					viewId
@@ -7001,7 +6866,6 @@ the characteristics of the new terminal.
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2884" data-target="#details-2884" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -7086,7 +6950,6 @@ the characteristics of the new terminal.
 	<tr>
 		<td>
 			<a name="viewType">
-			</a>
 			<span class="ts" id="2827" data-target="#details-2827" data-toggle="collapse">
 				<span class="ident">
 					viewType
@@ -7110,7 +6973,6 @@ the characteristics of the new terminal.
 	<tr>
 		<td>
 			<a name="title">
-			</a>
 			<span class="ts" id="2828" data-target="#details-2828" data-toggle="collapse">
 				<span class="ident">
 					title
@@ -7134,7 +6996,6 @@ the characteristics of the new terminal.
 	<tr>
 		<td>
 			<a name="showOptions">
-			</a>
 			<span class="ts" id="2829" data-target="#details-2829" data-toggle="collapse">
 				<span class="ident">
 					showOptions
@@ -7167,7 +7028,6 @@ the characteristics of the new terminal.
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2833" data-target="#details-2833" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -7245,7 +7105,6 @@ must register a <a href="#CustomTextEditorProvider"><code>CustomTextEditorProvid
 	<tr>
 		<td>
 			<a name="viewType">
-			</a>
 			<span class="ts" id="2903" data-target="#details-2903" data-toggle="collapse">
 				<span class="ident">
 					viewType
@@ -7277,7 +7136,6 @@ must register a <a href="#CustomTextEditorProvider"><code>CustomTextEditorProvid
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="2904" data-target="#details-2904" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -7309,7 +7167,6 @@ must register a <a href="#CustomTextEditorProvider"><code>CustomTextEditorProvid
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2905" data-target="#details-2905" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -7386,7 +7243,6 @@ must register a <a href="#CustomTextEditorProvider"><code>CustomTextEditorProvid
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="2911" data-target="#details-2911" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -7456,7 +7312,6 @@ This will allow you to contribute data to the <a href="#TreeView">TreeView</a> a
 	<tr>
 		<td>
 			<a name="viewId">
-			</a>
 			<span class="ts" id="2878" data-target="#details-2878" data-toggle="collapse">
 				<span class="ident">
 					viewId
@@ -7484,7 +7339,6 @@ This will allow you to contribute data to the <a href="#TreeView">TreeView</a> a
 	<tr>
 		<td>
 			<a name="treeDataProvider">
-			</a>
 			<span class="ts" id="2879" data-target="#details-2879" data-toggle="collapse">
 				<span class="ident">
 					treeDataProvider
@@ -7532,7 +7386,6 @@ This will allow you to contribute data to the <a href="#TreeView">TreeView</a> a
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -7574,7 +7427,6 @@ the current extension is about to be handled.</li>
 	<tr>
 		<td>
 			<a name="handler">
-			</a>
 			<span class="ts" id="2887" data-target="#details-2887" data-toggle="collapse">
 				<span class="ident">
 					handler
@@ -7613,7 +7465,6 @@ the current extension is about to be handled.</li>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -7642,7 +7493,6 @@ make sure that <a href="#registerWebviewPanelSerializer">registerWebviewPanelSer
 	<tr>
 		<td>
 			<a name="viewType">
-			</a>
 			<span class="ts" id="2890" data-target="#details-2890" data-toggle="collapse">
 				<span class="ident">
 					viewType
@@ -7666,7 +7516,6 @@ make sure that <a href="#registerWebviewPanelSerializer">registerWebviewPanelSer
 	<tr>
 		<td>
 			<a name="serializer">
-			</a>
 			<span class="ts" id="2891" data-target="#details-2891" data-toggle="collapse">
 				<span class="ident">
 					serializer
@@ -7705,7 +7554,6 @@ make sure that <a href="#registerWebviewPanelSerializer">registerWebviewPanelSer
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -7731,7 +7579,6 @@ make sure that <a href="#registerWebviewPanelSerializer">registerWebviewPanelSer
 	<tr>
 		<td>
 			<a name="viewId">
-			</a>
 			<span class="ts" id="2894" data-target="#details-2894" data-toggle="collapse">
 				<span class="ident">
 					viewId
@@ -7763,7 +7610,6 @@ make sure that <a href="#registerWebviewPanelSerializer">registerWebviewPanelSer
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="2895" data-target="#details-2895" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -7787,7 +7633,6 @@ make sure that <a href="#registerWebviewPanelSerializer">registerWebviewPanelSer
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2896" data-target="#details-2896" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -7807,7 +7652,6 @@ make sure that <a href="#registerWebviewPanelSerializer">registerWebviewPanelSer
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -7858,7 +7702,6 @@ status bar <a href="#window.createStatusBarItem">items</a>.</p>
 	<tr>
 		<td>
 			<a name="text">
-			</a>
 			<span class="ts" id="2836" data-target="#details-2836" data-toggle="collapse">
 				<span class="ident">
 					text
@@ -7886,7 +7729,6 @@ status bar <a href="#window.createStatusBarItem">items</a>.</p>
 	<tr>
 		<td>
 			<a name="hideAfterTimeout">
-			</a>
 			<span class="ts" id="2837" data-target="#details-2837" data-toggle="collapse">
 				<span class="ident">
 					hideAfterTimeout
@@ -7955,7 +7797,6 @@ status bar <a href="#window.createStatusBarItem">items</a>.</p>
 	<tr>
 		<td>
 			<a name="text">
-			</a>
 			<span class="ts" id="2839" data-target="#details-2839" data-toggle="collapse">
 				<span class="ident">
 					text
@@ -7983,7 +7824,6 @@ status bar <a href="#window.createStatusBarItem">items</a>.</p>
 	<tr>
 		<td>
 			<a name="hideWhenDone">
-			</a>
 			<span class="ts" id="2840" data-target="#details-2840" data-toggle="collapse">
 				<span class="ident">
 					hideWhenDone
@@ -8059,7 +7899,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="text">
-			</a>
 			<span class="ts" id="2842" data-target="#details-2842" data-toggle="collapse">
 				<span class="ident">
 					text
@@ -8134,7 +7973,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2766" data-target="#details-2766" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -8158,7 +7996,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2767" data-target="#details-2767" data-toggle="collapse">
 				<span>
 					...
@@ -8246,7 +8083,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2769" data-target="#details-2769" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -8270,7 +8106,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2770" data-target="#details-2770" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -8294,7 +8129,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2771" data-target="#details-2771" data-toggle="collapse">
 				<span>
 					...
@@ -8382,7 +8216,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2774" data-target="#details-2774" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -8406,7 +8239,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2775" data-target="#details-2775" data-toggle="collapse">
 				<span>
 					...
@@ -8494,7 +8326,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2778" data-target="#details-2778" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -8518,7 +8349,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2779" data-target="#details-2779" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -8542,7 +8372,6 @@ longer used.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2780" data-target="#details-2780" data-toggle="collapse">
 				<span>
 					...
@@ -8628,7 +8457,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2732" data-target="#details-2732" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -8652,7 +8480,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2733" data-target="#details-2733" data-toggle="collapse">
 				<span>
 					...
@@ -8738,7 +8565,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2735" data-target="#details-2735" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -8762,7 +8588,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2736" data-target="#details-2736" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -8786,7 +8611,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2737" data-target="#details-2737" data-toggle="collapse">
 				<span>
 					...
@@ -8874,7 +8698,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2740" data-target="#details-2740" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -8898,7 +8721,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2741" data-target="#details-2741" data-toggle="collapse">
 				<span>
 					...
@@ -8986,7 +8808,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2744" data-target="#details-2744" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -9010,7 +8831,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2745" data-target="#details-2745" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9034,7 +8854,6 @@ clickable buttons.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2746" data-target="#details-2746" data-toggle="collapse">
 				<span>
 					...
@@ -9122,7 +8941,6 @@ anything but dismissed the input box with OK.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2815" data-target="#details-2815" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9149,7 +8967,6 @@ anything but dismissed the input box with OK.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2816" data-target="#details-2816" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -9234,7 +9051,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2809" data-target="#details-2809" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9318,7 +9134,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2783" data-target="#details-2783" data-toggle="collapse">
 				<span class="ident">
 					items
@@ -9351,7 +9166,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2784" data-target="#details-2784" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9380,7 +9194,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2787" data-target="#details-2787" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -9464,7 +9277,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2789" data-target="#details-2789" data-toggle="collapse">
 				<span class="ident">
 					items
@@ -9497,7 +9309,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2790" data-target="#details-2790" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9524,7 +9335,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2791" data-target="#details-2791" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -9608,7 +9418,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2794" data-target="#details-2794" data-toggle="collapse">
 				<span class="ident">
 					items
@@ -9641,7 +9450,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2795" data-target="#details-2795" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9670,7 +9478,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2798" data-target="#details-2798" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -9754,7 +9561,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2801" data-target="#details-2801" data-toggle="collapse">
 				<span class="ident">
 					items
@@ -9787,7 +9593,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2802" data-target="#details-2802" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9814,7 +9619,6 @@ for opening-purposes.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2803" data-target="#details-2803" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -9899,7 +9703,6 @@ for saving-purposes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2812" data-target="#details-2812" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -9984,7 +9787,6 @@ to control where the editor is being shown. Might change the <a href="#window.ac
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="2718" data-target="#details-2718" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -10008,7 +9810,6 @@ to control where the editor is being shown. Might change the <a href="#window.ac
 	<tr>
 		<td>
 			<a name="column">
-			</a>
 			<span class="ts" id="2719" data-target="#details-2719" data-toggle="collapse">
 				<span class="ident">
 					column
@@ -10058,7 +9859,6 @@ are adjusted to be
 	<tr>
 		<td>
 			<a name="preserveFocus">
-			</a>
 			<span class="ts" id="2720" data-target="#details-2720" data-toggle="collapse">
 				<span class="ident">
 					preserveFocus
@@ -10143,7 +9943,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="2722" data-target="#details-2722" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -10167,7 +9966,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2723" data-target="#details-2723" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -10254,7 +10052,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="2725" data-target="#details-2725" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -10278,7 +10075,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2726" data-target="#details-2726" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -10365,7 +10161,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2749" data-target="#details-2749" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -10389,7 +10184,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2750" data-target="#details-2750" data-toggle="collapse">
 				<span>
 					...
@@ -10477,7 +10271,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2752" data-target="#details-2752" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -10501,7 +10294,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2753" data-target="#details-2753" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -10525,7 +10317,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2754" data-target="#details-2754" data-toggle="collapse">
 				<span>
 					...
@@ -10613,7 +10404,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2757" data-target="#details-2757" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -10637,7 +10427,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2758" data-target="#details-2758" data-toggle="collapse">
 				<span>
 					...
@@ -10725,7 +10514,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2761" data-target="#details-2761" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -10749,7 +10537,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2762" data-target="#details-2762" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -10773,7 +10560,6 @@ to control options of the editor is being shown. Might change the <a href="#wind
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="2763" data-target="#details-2763" data-toggle="collapse">
 				<span>
 					...
@@ -10859,7 +10645,6 @@ Returns <code>undefined</code> if no folder is open.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2806" data-target="#details-2806" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -10945,7 +10730,6 @@ progress should show (and other details) is defined via the passed <a href="#Pro
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2853" data-target="#details-2853" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -10960,13 +10744,11 @@ progress should show (and other details) is defined via the passed <a href="#Pro
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="task">
-			</a>
 			<span class="ts" id="2854" data-target="#details-2854" data-toggle="collapse">
 				<span class="ident">
 					task
@@ -10978,7 +10760,8 @@ progress should show (and other details) is defined via the passed <a href="#Pro
 				<a class="type-ref" href="#Progress">
 					Progress
 				</a>
-				<{increment:
+				<
+				{increment:
 				<a class="type-intrinsic">
 					number
 				</a>
@@ -11111,7 +10894,6 @@ its returned promise isn&#39;t resolve or rejected.</p>
 	<tr>
 		<td>
 			<a name="task">
-			</a>
 			<span class="ts" id="2846" data-target="#details-2846" data-toggle="collapse">
 				<span class="ident">
 					task
@@ -11463,7 +11245,6 @@ not be attempted, when a single edit fails.</p>
 	<tr>
 		<td>
 			<a name="edit">
-			</a>
 			<span class="ts" id="2953" data-target="#details-2953" data-toggle="collapse">
 				<span class="ident">
 					edit
@@ -11538,7 +11319,6 @@ is not contained in them, the input is returned.</p>
 	<tr>
 		<td>
 			<a name="pathOrUri">
-			</a>
 			<span class="ts" id="2926" data-target="#details-2926" data-toggle="collapse">
 				<span class="ident">
 					pathOrUri
@@ -11570,7 +11350,6 @@ is not contained in them, the input is returned.</p>
 	<tr>
 		<td>
 			<a name="includeWorkspaceFolder">
-			</a>
 			<span class="ts" id="2927" data-target="#details-2927" data-toggle="collapse">
 				<span class="ident">
 					includeWorkspaceFolder
@@ -11658,7 +11437,6 @@ flags to ignore certain kinds of events can be provided. To stop listening to ev
 	<tr>
 		<td>
 			<a name="globPattern">
-			</a>
 			<span class="ts" id="2938" data-target="#details-2938" data-toggle="collapse">
 				<span class="ident">
 					globPattern
@@ -11695,7 +11473,6 @@ and deleted files. Use a
 	<tr>
 		<td>
 			<a name="ignoreCreateEvents">
-			</a>
 			<span class="ts" id="2939" data-target="#details-2939" data-toggle="collapse">
 				<span class="ident">
 					ignoreCreateEvents
@@ -11722,7 +11499,6 @@ and deleted files. Use a
 	<tr>
 		<td>
 			<a name="ignoreChangeEvents">
-			</a>
 			<span class="ts" id="2940" data-target="#details-2940" data-toggle="collapse">
 				<span class="ident">
 					ignoreChangeEvents
@@ -11749,7 +11525,6 @@ and deleted files. Use a
 	<tr>
 		<td>
 			<a name="ignoreDeleteEvents">
-			</a>
 			<span class="ts" id="2941" data-target="#details-2941" data-toggle="collapse">
 				<span class="ident">
 					ignoreDeleteEvents
@@ -11823,7 +11598,6 @@ and deleted files. Use a
 	<tr>
 		<td>
 			<a name="include">
-			</a>
 			<span class="ts" id="2944" data-target="#details-2944" data-toggle="collapse">
 				<span class="ident">
 					include
@@ -11860,7 +11634,6 @@ will be matched against the file paths of resulting matches relative to their wo
 	<tr>
 		<td>
 			<a name="exclude">
-			</a>
 			<span class="ts" id="2945" data-target="#details-2945" data-toggle="collapse">
 				<span class="ident">
 					exclude
@@ -11905,7 +11678,6 @@ apply, when
 	<tr>
 		<td>
 			<a name="maxResults">
-			</a>
 			<span class="ts" id="2946" data-target="#details-2946" data-toggle="collapse">
 				<span class="ident">
 					maxResults
@@ -11932,7 +11704,6 @@ apply, when
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2947" data-target="#details-2947" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -12016,7 +11787,6 @@ like <code>{ myExt: { setting: { doIt: true }}}</code> and <code>getConfiguratio
 	<tr>
 		<td>
 			<a name="section">
-			</a>
 			<span class="ts" id="2982" data-target="#details-2982" data-toggle="collapse">
 				<span class="ident">
 					section
@@ -12047,7 +11817,6 @@ like <code>{ myExt: { setting: { doIt: true }}}</code> and <code>getConfiguratio
 	<tr>
 		<td>
 			<a name="scope">
-			</a>
 			<span class="ts" id="2983" data-target="#details-2983" data-toggle="collapse">
 				<span class="ident">
 					scope
@@ -12126,7 +11895,6 @@ like <code>{ myExt: { setting: { doIt: true }}}</code> and <code>getConfiguratio
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="2923" data-target="#details-2923" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -12213,7 +11981,6 @@ will be derived from the file name.</li>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="2957" data-target="#details-2957" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -12293,7 +12060,6 @@ will be derived from the file name.</li>
 	<tr>
 		<td>
 			<a name="fileName">
-			</a>
 			<span class="ts" id="2959" data-target="#details-2959" data-toggle="collapse">
 				<span class="ident">
 					fileName
@@ -12372,7 +12138,6 @@ specify the <em>language</em> and/or the <em>content</em> of the document.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2961" data-target="#details-2961" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -12460,7 +12225,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="scheme">
-			</a>
 			<span class="ts" id="2991" data-target="#details-2991" data-toggle="collapse">
 				<span class="ident">
 					scheme
@@ -12488,7 +12252,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="2992" data-target="#details-2992" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -12512,7 +12275,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2993" data-target="#details-2993" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -12596,7 +12358,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="type">
-			</a>
 			<span class="ts" id="2987" data-target="#details-2987" data-toggle="collapse">
 				<span class="ident">
 					type
@@ -12620,7 +12381,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="2988" data-target="#details-2988" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -12693,7 +12453,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="scheme">
-			</a>
 			<span class="ts" id="2967" data-target="#details-2967" data-toggle="collapse">
 				<span class="ident">
 					scheme
@@ -12717,7 +12476,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="provider">
-			</a>
 			<span class="ts" id="2968" data-target="#details-2968" data-toggle="collapse">
 				<span class="ident">
 					provider
@@ -12789,7 +12547,6 @@ has been claimed by another provider or when it is reserved.</p>
 	<tr>
 		<td>
 			<a name="includeUntitled">
-			</a>
 			<span class="ts" id="2950" data-target="#details-2950" data-toggle="collapse">
 				<span class="ident">
 					includeUntitled
@@ -12888,7 +12645,6 @@ without waiting for the <a href="#onDidChangeWorkspaceFolders"><code>onDidChange
 	<tr>
 		<td>
 			<a name="start">
-			</a>
 			<span class="ts" id="2930" data-target="#details-2930" data-toggle="collapse">
 				<span class="ident">
 					start
@@ -12916,7 +12672,6 @@ without waiting for the <a href="#onDidChangeWorkspaceFolders"><code>onDidChange
 	<tr>
 		<td>
 			<a name="deleteCount">
-			</a>
 			<span class="ts" id="2931" data-target="#details-2931" data-toggle="collapse">
 				<span class="ident">
 					deleteCount
@@ -12948,7 +12703,6 @@ without waiting for the <a href="#onDidChangeWorkspaceFolders"><code>onDidChange
 	<tr>
 		<td>
 			<a name="workspaceFoldersToAdd">
-			</a>
 			<span class="ts" id="2932" data-target="#details-2932" data-toggle="collapse">
 				<span>
 					...
@@ -13205,7 +12959,6 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 	<tr>
 		<td>
 			<a name="enabled">
-			</a>
 			<span class="ts" id="2509" data-target="#details-2509" data-toggle="collapse">
 				<span class="ident">
 					enabled
@@ -13223,13 +12976,11 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="condition">
-			</a>
 			<span class="ts" id="2510" data-target="#details-2510" data-toggle="collapse">
 				<span class="ident">
 					condition
@@ -13247,13 +12998,11 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="hitCondition">
-			</a>
 			<span class="ts" id="2511" data-target="#details-2511" data-toggle="collapse">
 				<span class="ident">
 					hitCondition
@@ -13271,13 +13020,11 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="logMessage">
-			</a>
 			<span class="ts" id="2512" data-target="#details-2512" data-toggle="collapse">
 				<span class="ident">
 					logMessage
@@ -13295,7 +13042,6 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -13316,7 +13062,6 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -13426,7 +13171,6 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 	<tr>
 		<td>
 			<a name="item">
-			</a>
 			<span class="ts" id="1260" data-target="#details-1260" data-toggle="collapse">
 				<span class="ident">
 					item
@@ -13450,7 +13194,6 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 	<tr>
 		<td>
 			<a name="fromRanges">
-			</a>
 			<span class="ts" id="1261" data-target="#details-1261" data-toggle="collapse">
 				<span class="ident">
 					fromRanges
@@ -13490,7 +13233,6 @@ are defined by the <a href="#AuthenticationProvider">AuthenticationProvider</a>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -13545,7 +13287,6 @@ of call hierarchy.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="1249" data-target="#details-1249" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -13560,13 +13301,11 @@ of call hierarchy.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="1250" data-target="#details-1250" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -13581,13 +13320,11 @@ of call hierarchy.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="detail">
-			</a>
 			<span class="ts" id="1251" data-target="#details-1251" data-toggle="collapse">
 				<span class="ident">
 					detail
@@ -13602,13 +13339,11 @@ of call hierarchy.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1252" data-target="#details-1252" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -13623,13 +13358,11 @@ of call hierarchy.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="1253" data-target="#details-1253" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -13644,13 +13377,11 @@ of call hierarchy.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="selectionRange">
-			</a>
 			<span class="ts" id="1254" data-target="#details-1254" data-toggle="collapse">
 				<span class="ident">
 					selectionRange
@@ -13665,7 +13396,6 @@ of call hierarchy.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -13686,7 +13416,6 @@ of call hierarchy.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -13780,7 +13509,6 @@ Must be contained by the <a href="#CallHierarchyItem.range"><code>range</code></
 	<tr>
 		<td>
 			<a name="item">
-			</a>
 			<span class="ts" id="1267" data-target="#details-1267" data-toggle="collapse">
 				<span class="ident">
 					item
@@ -13804,7 +13532,6 @@ Must be contained by the <a href="#CallHierarchyItem.range"><code>range</code></
 	<tr>
 		<td>
 			<a name="fromRanges">
-			</a>
 			<span class="ts" id="1268" data-target="#details-1268" data-toggle="collapse">
 				<span class="ident">
 					fromRanges
@@ -13844,7 +13571,6 @@ Must be contained by the <a href="#CallHierarchyItem.range"><code>range</code></
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -13903,7 +13629,6 @@ return <code>undefined</code> or <code>null</code> when there is no item at the 
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1272" data-target="#details-1272" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -13927,7 +13652,6 @@ return <code>undefined</code> or <code>null</code> when there is no item at the 
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="1273" data-target="#details-1273" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -13951,7 +13675,6 @@ return <code>undefined</code> or <code>null</code> when there is no item at the 
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1274" data-target="#details-1274" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -14039,7 +13762,6 @@ that can be reached.</p>
 	<tr>
 		<td>
 			<a name="item">
-			</a>
 			<span class="ts" id="1277" data-target="#details-1277" data-toggle="collapse">
 				<span class="ident">
 					item
@@ -14063,7 +13785,6 @@ that can be reached.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1278" data-target="#details-1278" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -14147,7 +13868,6 @@ node and the result is the nodes that can be reached.</p>
 	<tr>
 		<td>
 			<a name="item">
-			</a>
 			<span class="ts" id="1281" data-target="#details-1281" data-toggle="collapse">
 				<span class="ident">
 					item
@@ -14171,7 +13891,6 @@ node and the result is the nodes that can be reached.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1282" data-target="#details-1282" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -14308,7 +14027,6 @@ for completion items because the user continued to type.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -14341,7 +14059,6 @@ for completion items because the user continued to type.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -14429,7 +14146,6 @@ opening and closing brackets.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="2014" data-target="#details-2014" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -14444,7 +14160,6 @@ opening and closing brackets.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -14512,7 +14227,6 @@ and/or a <a href="#CodeAction.command">command</a>.</p>
 	<tr>
 		<td>
 			<a name="title">
-			</a>
 			<span class="ts" id="598" data-target="#details-598" data-toggle="collapse">
 				<span class="ident">
 					title
@@ -14536,7 +14250,6 @@ and/or a <a href="#CodeAction.command">command</a>.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="599" data-target="#details-599" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -14578,7 +14291,6 @@ and/or a <a href="#CodeAction.command">command</a>.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -14823,7 +14535,6 @@ They should not suppress errors or perform unsafe fixes such as generating new t
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="572" data-target="#details-572" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -14838,7 +14549,6 @@ They should not suppress errors or perform unsafe fixes such as generating new t
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -14859,7 +14569,6 @@ They should not suppress errors or perform unsafe fixes such as generating new t
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -14898,7 +14607,6 @@ They should not suppress errors or perform unsafe fixes such as generating new t
 	<tr>
 		<td>
 			<a name="parts">
-			</a>
 			<span class="ts" id="576" data-target="#details-576" data-toggle="collapse">
 				<span class="ident">
 					parts
@@ -14913,7 +14621,6 @@ They should not suppress errors or perform unsafe fixes such as generating new t
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -14934,7 +14641,6 @@ They should not suppress errors or perform unsafe fixes such as generating new t
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -14962,7 +14668,6 @@ but not <code>&quot;unicorn.refactor.extract&quot;</code>, or <code>&quot;refact
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="582" data-target="#details-582" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -15001,7 +14706,6 @@ but not <code>&quot;unicorn.refactor.extract&quot;</code>, or <code>&quot;refact
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -15029,7 +14733,6 @@ but not <code>&quot;unicorn.refactor.extract&quot;</code>, or <code>&quot;refact
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="579" data-target="#details-579" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -15068,7 +14771,6 @@ but not <code>&quot;unicorn.refactor.extract&quot;</code>, or <code>&quot;refact
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -15105,7 +14807,6 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_code-act
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="604" data-target="#details-604" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -15129,7 +14830,6 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_code-act
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="605" data-target="#details-605" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -15158,7 +14858,6 @@ there is a currently active editor.
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="606" data-target="#details-606" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -15182,7 +14881,6 @@ there is a currently active editor.
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="607" data-target="#details-607" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -15273,7 +14971,6 @@ returned.</p>
 	<tr>
 		<td>
 			<a name="codeAction">
-			</a>
 			<span class="ts" id="610" data-target="#details-610" data-toggle="collapse">
 				<span class="ident">
 					codeAction
@@ -15297,7 +14994,6 @@ returned.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="611" data-target="#details-611" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -15436,7 +15132,6 @@ reasons the creation of a code lens and resolving should be done to two stages.<
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="624" data-target="#details-624" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -15460,7 +15155,6 @@ reasons the creation of a code lens and resolving should be done to two stages.<
 	<tr>
 		<td>
 			<a name="command">
-			</a>
 			<span class="ts" id="625" data-target="#details-625" data-toggle="collapse">
 				<span class="ident">
 					command
@@ -15502,7 +15196,6 @@ reasons the creation of a code lens and resolving should be done to two stages.<
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -15576,7 +15269,6 @@ range set and implement <a href="#CodeLensProvider.resolveCodeLens">resolve</a>.
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="631" data-target="#details-631" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -15600,7 +15292,6 @@ range set and implement <a href="#CodeLensProvider.resolveCodeLens">resolve</a>.
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="632" data-target="#details-632" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -15683,7 +15374,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="codeLens">
-			</a>
 			<span class="ts" id="635" data-target="#details-635" data-toggle="collapse">
 				<span class="ident">
 					codeLens
@@ -15707,7 +15397,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="636" data-target="#details-636" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -15789,7 +15478,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="red">
-			</a>
 			<span class="ts" id="1175" data-target="#details-1175" data-toggle="collapse">
 				<span class="ident">
 					red
@@ -15813,7 +15501,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="green">
-			</a>
 			<span class="ts" id="1176" data-target="#details-1176" data-toggle="collapse">
 				<span class="ident">
 					green
@@ -15837,7 +15524,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="blue">
-			</a>
 			<span class="ts" id="1177" data-target="#details-1177" data-toggle="collapse">
 				<span class="ident">
 					blue
@@ -15861,7 +15547,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="alpha">
-			</a>
 			<span class="ts" id="1178" data-target="#details-1178" data-toggle="collapse">
 				<span class="ident">
 					alpha
@@ -15900,7 +15585,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -15969,7 +15653,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="1184" data-target="#details-1184" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -15993,7 +15676,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 	<tr>
 		<td>
 			<a name="color">
-			</a>
 			<span class="ts" id="1185" data-target="#details-1185" data-toggle="collapse">
 				<span class="ident">
 					color
@@ -16032,7 +15714,6 @@ calls to <a href="#CodeLensProvider.provideCodeLenses">compute</a>-lenses.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -16089,7 +15770,6 @@ apply, e.g. <code>System.Drawing.Color.Red</code>.</p>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="1192" data-target="#details-1192" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -16128,7 +15808,6 @@ apply, e.g. <code>System.Drawing.Color.Red</code>.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -16432,7 +16111,6 @@ and Comments Panel once created.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="2601" data-target="#details-2601" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -16456,7 +16134,6 @@ and Comments Panel once created.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="2602" data-target="#details-2602" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -16480,7 +16157,6 @@ and Comments Panel once created.</p>
 	<tr>
 		<td>
 			<a name="comments">
-			</a>
 			<span class="ts" id="2603" data-target="#details-2603" data-toggle="collapse">
 				<span class="ident">
 					comments
@@ -16520,7 +16196,6 @@ and Comments Panel once created.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -16555,7 +16230,6 @@ and Comments Panel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -16590,7 +16264,6 @@ and Comments Panel.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="2589" data-target="#details-2589" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -16605,13 +16278,11 @@ and Comments Panel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2590" data-target="#details-2590" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -16626,7 +16297,6 @@ and Comments Panel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -16652,7 +16322,6 @@ and Comments Panel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -16909,7 +16578,6 @@ at the first line of the range.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -17010,7 +16678,6 @@ will be used as insert text as well as for sorting and filtering.</p>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="1121" data-target="#details-1121" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -17034,7 +16701,6 @@ will be used as insert text as well as for sorting and filtering.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="1122" data-target="#details-1122" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -17080,7 +16746,6 @@ will be used as insert text as well as for sorting and filtering.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -17485,7 +17150,6 @@ implicitly when typing words or trigger characters.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1142" data-target="#details-1142" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -17509,7 +17173,6 @@ implicitly when typing words or trigger characters.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="1143" data-target="#details-1143" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -17533,7 +17196,6 @@ implicitly when typing words or trigger characters.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1144" data-target="#details-1144" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -17557,7 +17219,6 @@ implicitly when typing words or trigger characters.</p>
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="1145" data-target="#details-1145" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -17659,7 +17320,6 @@ text edits.</p>
 	<tr>
 		<td>
 			<a name="item">
-			</a>
 			<span class="ts" id="1148" data-target="#details-1148" data-toggle="collapse">
 				<span class="ident">
 					item
@@ -17683,7 +17343,6 @@ text edits.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1149" data-target="#details-1149" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -17791,7 +17450,6 @@ in the editor.</p>
 	<tr>
 		<td>
 			<a name="items">
-			</a>
 			<span class="ts" id="1129" data-target="#details-1129" data-toggle="collapse">
 				<span class="ident">
 					items
@@ -17819,7 +17477,6 @@ in the editor.</p>
 	<tr>
 		<td>
 			<a name="isIncomplete">
-			</a>
 			<span class="ts" id="1130" data-target="#details-1130" data-toggle="collapse">
 				<span class="ident">
 					isIncomplete
@@ -17861,7 +17518,6 @@ in the editor.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -17946,7 +17602,6 @@ If scope is provided, checks if the section has changed for resources under the 
 	<tr>
 		<td>
 			<a name="section">
-			</a>
 			<span class="ts" id="2326" data-target="#details-2326" data-toggle="collapse">
 				<span class="ident">
 					section
@@ -17974,7 +17629,6 @@ If scope is provided, checks if the section has changed for resources under the 
 	<tr>
 		<td>
 			<a name="scope">
-			</a>
 			<span class="ts" id="2327" data-target="#details-2327" data-toggle="collapse">
 				<span class="ident">
 					scope
@@ -18122,7 +17776,6 @@ all editors associated with the document have been closed.)</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -18177,7 +17830,6 @@ is made or when the file is saved.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -18294,7 +17946,6 @@ edit was added to VS Code&#39;s internal edit stack by <code>onDidChangeCustomDo
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -18338,7 +17989,6 @@ edit was added to VS Code&#39;s internal edit stack by <code>onDidChangeCustomDo
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -18426,7 +18076,6 @@ rapidly edits the document, <code>backup</code> will not be invoked until the ed
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1996" data-target="#details-1996" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -18450,7 +18099,6 @@ rapidly edits the document, <code>backup</code> will not be invoked until the ed
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="1997" data-target="#details-1997" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -18474,7 +18122,6 @@ rapidly edits the document, <code>backup</code> will not be invoked until the ed
 	<tr>
 		<td>
 			<a name="cancellation">
-			</a>
 			<span class="ts" id="1998" data-target="#details-1998" data-toggle="collapse">
 				<span class="ident">
 					cancellation
@@ -18521,7 +18168,6 @@ than cancelling it to ensure that VS Code has some valid backup.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -18552,7 +18198,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="2001" data-target="#details-2001" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -18576,7 +18221,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="openContext">
-			</a>
 			<span class="ts" id="2002" data-target="#details-2002" data-toggle="collapse">
 				<span class="ident">
 					openContext
@@ -18600,7 +18244,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2003" data-target="#details-2003" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -18677,7 +18320,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="2006" data-target="#details-2006" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -18701,7 +18343,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="webviewPanel">
-			</a>
 			<span class="ts" id="2007" data-target="#details-2007" data-toggle="collapse">
 				<span class="ident">
 					webviewPanel
@@ -18740,7 +18381,6 @@ use later for example in a command. See
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2008" data-target="#details-2008" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -18821,7 +18461,6 @@ workspace.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1992" data-target="#details-1992" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -18845,7 +18484,6 @@ workspace.</p>
 	<tr>
 		<td>
 			<a name="cancellation">
-			</a>
 			<span class="ts" id="1993" data-target="#details-1993" data-toggle="collapse">
 				<span class="ident">
 					cancellation
@@ -18923,7 +18561,6 @@ no longer be marked as dirty.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1983" data-target="#details-1983" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -18947,7 +18584,6 @@ no longer be marked as dirty.</p>
 	<tr>
 		<td>
 			<a name="cancellation">
-			</a>
 			<span class="ts" id="1984" data-target="#details-1984" data-toggle="collapse">
 				<span class="ident">
 					cancellation
@@ -19023,7 +18659,6 @@ persist the custom editor to <code>destination</code>.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1987" data-target="#details-1987" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -19047,7 +18682,6 @@ persist the custom editor to <code>destination</code>.</p>
 	<tr>
 		<td>
 			<a name="destination">
-			</a>
 			<span class="ts" id="1988" data-target="#details-1988" data-toggle="collapse">
 				<span class="ident">
 					destination
@@ -19071,7 +18705,6 @@ persist the custom editor to <code>destination</code>.</p>
 	<tr>
 		<td>
 			<a name="cancellation">
-			</a>
 			<span class="ts" id="1989" data-target="#details-1989" data-toggle="collapse">
 				<span class="ident">
 					cancellation
@@ -19157,7 +18790,6 @@ extension should return the Pseudoterminal it will &quot;run in&quot;. The task 
 	<tr>
 		<td>
 			<a name="callback">
-			</a>
 			<span class="ts" id="1675" data-target="#details-1675" data-toggle="collapse">
 				<span class="ident">
 					callback
@@ -19207,7 +18839,6 @@ were in the task definition will be resolved and passed into the callback.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -19250,7 +18881,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1970" data-target="#details-1970" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -19274,7 +18904,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="openContext">
-			</a>
 			<span class="ts" id="1971" data-target="#details-1971" data-toggle="collapse">
 				<span class="ident">
 					openContext
@@ -19298,7 +18927,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1972" data-target="#details-1972" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -19375,7 +19003,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1975" data-target="#details-1975" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -19399,7 +19026,6 @@ trigger another call to <code>openCustomDocument</code>.</p>
 	<tr>
 		<td>
 			<a name="webviewPanel">
-			</a>
 			<span class="ts" id="1976" data-target="#details-1976" data-toggle="collapse">
 				<span class="ident">
 					webviewPanel
@@ -19438,7 +19064,6 @@ use later for example in a command. See
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1977" data-target="#details-1977" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -19528,7 +19153,6 @@ existing editor using this <code>CustomTextEditorProvider</code>.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1940" data-target="#details-1940" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -19552,7 +19176,6 @@ existing editor using this <code>CustomTextEditorProvider</code>.</p>
 	<tr>
 		<td>
 			<a name="webviewPanel">
-			</a>
 			<span class="ts" id="1941" data-target="#details-1941" data-toggle="collapse">
 				<span class="ident">
 					webviewPanel
@@ -19591,7 +19214,6 @@ use later for example in a command. See
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1942" data-target="#details-1942" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -19689,7 +19311,6 @@ instances of Disposable.</p>
 	<tr>
 		<td>
 			<a name="disposableLikes">
-			</a>
 			<span class="ts" id="2449" data-target="#details-2449" data-toggle="collapse">
 				<span>
 					...
@@ -19770,7 +19391,6 @@ on dispose.</p>
 	<tr>
 		<td>
 			<a name="callOnDispose">
-			</a>
 			<span class="ts" id="2456" data-target="#details-2456" data-toggle="collapse">
 				<span class="ident">
 					callOnDispose
@@ -19809,7 +19429,6 @@ on dispose.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -19844,7 +19463,6 @@ on dispose.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -19872,7 +19490,6 @@ Results or errors are returned via onSendMessage events.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2446" data-target="#details-2446" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -19911,7 +19528,6 @@ Results or errors are returned via onSendMessage events.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -19968,7 +19584,6 @@ createDebugAdapter(session: DebugSession, executable: DebugAdapterExecutable) {
 	<tr>
 		<td>
 			<a name="session">
-			</a>
 			<span class="ts" id="2466" data-target="#details-2466" data-toggle="collapse">
 				<span class="ident">
 					session
@@ -19996,7 +19611,6 @@ createDebugAdapter(session: DebugSession, executable: DebugAdapterExecutable) {
 	<tr>
 		<td>
 			<a name="executable">
-			</a>
 			<span class="ts" id="2467" data-target="#details-2467" data-toggle="collapse">
 				<span class="ident">
 					executable
@@ -20086,7 +19700,6 @@ createDebugAdapter(session: DebugSession, executable: DebugAdapterExecutable) {
 	<tr>
 		<td>
 			<a name="command">
-			</a>
 			<span class="ts" id="2418" data-target="#details-2418" data-toggle="collapse">
 				<span class="ident">
 					command
@@ -20110,7 +19723,6 @@ createDebugAdapter(session: DebugSession, executable: DebugAdapterExecutable) {
 	<tr>
 		<td>
 			<a name="args">
-			</a>
 			<span class="ts" id="2419" data-target="#details-2419" data-toggle="collapse">
 				<span class="ident">
 					args
@@ -20138,7 +19750,6 @@ createDebugAdapter(session: DebugSession, executable: DebugAdapterExecutable) {
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2420" data-target="#details-2420" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -20180,7 +19791,6 @@ createDebugAdapter(session: DebugSession, executable: DebugAdapterExecutable) {
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20271,7 +19881,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="implementation">
-			</a>
 			<span class="ts" id="2462" data-target="#details-2462" data-toggle="collapse">
 				<span class="ident">
 					implementation
@@ -20286,7 +19895,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -20307,7 +19915,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20342,7 +19949,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="path">
-			</a>
 			<span class="ts" id="2441" data-target="#details-2441" data-toggle="collapse">
 				<span class="ident">
 					path
@@ -20357,7 +19963,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -20378,7 +19983,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20423,7 +20027,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="port">
-			</a>
 			<span class="ts" id="2435" data-target="#details-2435" data-toggle="collapse">
 				<span class="ident">
 					port
@@ -20438,13 +20041,11 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="host">
-			</a>
 			<span class="ts" id="2436" data-target="#details-2436" data-toggle="collapse">
 				<span class="ident">
 					host
@@ -20462,7 +20063,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -20483,7 +20083,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20536,7 +20135,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2476" data-target="#details-2476" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -20551,7 +20149,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -20572,7 +20169,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20598,7 +20194,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="2473" data-target="#details-2473" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -20613,7 +20208,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -20634,7 +20228,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20667,7 +20260,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20700,7 +20292,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20728,7 +20319,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="error">
-			</a>
 			<span class="ts" id="2481" data-target="#details-2481" data-toggle="collapse">
 				<span class="ident">
 					error
@@ -20743,7 +20333,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -20764,7 +20353,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20790,7 +20378,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="code">
-			</a>
 			<span class="ts" id="2484" data-target="#details-2484" data-toggle="collapse">
 				<span class="ident">
 					code
@@ -20809,13 +20396,11 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="signal">
-			</a>
 			<span class="ts" id="2485" data-target="#details-2485" data-toggle="collapse">
 				<span class="ident">
 					signal
@@ -20834,7 +20419,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -20855,7 +20439,6 @@ the parent process&#39; environment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -20890,7 +20473,6 @@ to return a &quot;tracker&quot; object that provides read-access to the communic
 	<tr>
 		<td>
 			<a name="session">
-			</a>
 			<span class="ts" id="2489" data-target="#details-2489" data-toggle="collapse">
 				<span class="ident">
 					session
@@ -21016,7 +20598,6 @@ registered for the same type, debug configurations are concatenated in arbitrary
 	<tr>
 		<td>
 			<a name="folder">
-			</a>
 			<span class="ts" id="2403" data-target="#details-2403" data-toggle="collapse">
 				<span class="ident">
 					folder
@@ -21048,7 +20629,6 @@ registered for the same type, debug configurations are concatenated in arbitrary
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2404" data-target="#details-2404" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -21132,7 +20712,6 @@ Returning the value &#39;null&#39; prevents the debug session from starting and 
 	<tr>
 		<td>
 			<a name="folder">
-			</a>
 			<span class="ts" id="2407" data-target="#details-2407" data-toggle="collapse">
 				<span class="ident">
 					folder
@@ -21164,7 +20743,6 @@ Returning the value &#39;null&#39; prevents the debug session from starting and 
 	<tr>
 		<td>
 			<a name="debugConfiguration">
-			</a>
 			<span class="ts" id="2408" data-target="#details-2408" data-toggle="collapse">
 				<span class="ident">
 					debugConfiguration
@@ -21192,7 +20770,6 @@ Returning the value &#39;null&#39; prevents the debug session from starting and 
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2409" data-target="#details-2409" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -21273,7 +20850,6 @@ Returning the value &#39;null&#39; prevents the debug session from starting and 
 	<tr>
 		<td>
 			<a name="folder">
-			</a>
 			<span class="ts" id="2412" data-target="#details-2412" data-toggle="collapse">
 				<span class="ident">
 					folder
@@ -21305,7 +20881,6 @@ Returning the value &#39;null&#39; prevents the debug session from starting and 
 	<tr>
 		<td>
 			<a name="debugConfiguration">
-			</a>
 			<span class="ts" id="2413" data-target="#details-2413" data-toggle="collapse">
 				<span class="ident">
 					debugConfiguration
@@ -21333,7 +20908,6 @@ Returning the value &#39;null&#39; prevents the debug session from starting and 
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2414" data-target="#details-2414" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -21444,7 +21018,6 @@ A trigger kind is used when registering a <code>DebugConfigurationProvider</code
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="2493" data-target="#details-2493" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -21483,7 +21056,6 @@ A trigger kind is used when registering a <code>DebugConfigurationProvider</code
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -21510,7 +21082,6 @@ to the debug console.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="2496" data-target="#details-2496" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -21549,7 +21120,6 @@ to the debug console.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -21676,7 +21246,6 @@ Any changes will be properly reflected in the UI.</p>
 	<tr>
 		<td>
 			<a name="command">
-			</a>
 			<span class="ts" id="2391" data-target="#details-2391" data-toggle="collapse">
 				<span class="ident">
 					command
@@ -21691,13 +21260,11 @@ Any changes will be properly reflected in the UI.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="args">
-			</a>
 			<span class="ts" id="2392" data-target="#details-2392" data-toggle="collapse">
 				<span class="ident">
 					args
@@ -21715,7 +21282,6 @@ Any changes will be properly reflected in the UI.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -21741,7 +21307,6 @@ Any changes will be properly reflected in the UI.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -21768,7 +21333,6 @@ If no DAP breakpoint exists (either because the VS Code breakpoint was not yet r
 	<tr>
 		<td>
 			<a name="breakpoint">
-			</a>
 			<span class="ts" id="2395" data-target="#details-2395" data-toggle="collapse">
 				<span class="ident">
 					breakpoint
@@ -21955,7 +21519,6 @@ the go to declaration feature.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="658" data-target="#details-658" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -21979,7 +21542,6 @@ the go to declaration feature.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="659" data-target="#details-659" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -22003,7 +21565,6 @@ the go to declaration feature.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="660" data-target="#details-660" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -22479,7 +22040,6 @@ and peek definition features.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="640" data-target="#details-640" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -22503,7 +22063,6 @@ and peek definition features.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="641" data-target="#details-641" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -22527,7 +22086,6 @@ and peek definition features.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="642" data-target="#details-642" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -22623,7 +22181,6 @@ are only valid in the scope of a file.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="1407" data-target="#details-1407" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -22647,7 +22204,6 @@ are only valid in the scope of a file.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="1408" data-target="#details-1408" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -22671,7 +22227,6 @@ are only valid in the scope of a file.</p>
 	<tr>
 		<td>
 			<a name="severity">
-			</a>
 			<span class="ts" id="1409" data-target="#details-1409" data-toggle="collapse">
 				<span class="ident">
 					severity
@@ -22717,7 +22272,6 @@ are only valid in the scope of a file.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -22854,7 +22408,6 @@ as calling <code>#set(undefined)</code>;</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -22881,7 +22434,6 @@ to the provided <code>uri</code>. The same as <code>#set(uri, undefined)</code>.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1420" data-target="#details-1420" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -22920,7 +22472,6 @@ to the provided <code>uri</code>. The same as <code>#set(uri, undefined)</code>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -22954,7 +22505,6 @@ to the provided <code>uri</code>. The same as <code>#set(uri, undefined)</code>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -22980,7 +22530,6 @@ to the provided <code>uri</code>. The same as <code>#set(uri, undefined)</code>.
 	<tr>
 		<td>
 			<a name="callback">
-			</a>
 			<span class="ts" id="1425" data-target="#details-1425" data-toggle="collapse">
 				<span class="ident">
 					callback
@@ -23021,7 +22570,6 @@ to the provided <code>uri</code>. The same as <code>#set(uri, undefined)</code>.
 	<tr>
 		<td>
 			<a name="thisArg">
-			</a>
 			<span class="ts" id="1431" data-target="#details-1431" data-toggle="collapse">
 				<span class="ident">
 					thisArg
@@ -23067,7 +22615,6 @@ to the provided <code>uri</code>. The same as <code>#set(uri, undefined)</code>.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -23094,7 +22641,6 @@ modify the diagnostics-array returned from this call.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1434" data-target="#details-1434" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -23179,7 +22725,6 @@ given resource.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1437" data-target="#details-1437" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -23251,7 +22796,6 @@ existing diagnostics for that resource.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1414" data-target="#details-1414" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -23275,7 +22819,6 @@ existing diagnostics for that resource.</p>
 	<tr>
 		<td>
 			<a name="diagnostics">
-			</a>
 			<span class="ts" id="1415" data-target="#details-1415" data-toggle="collapse">
 				<span class="ident">
 					diagnostics
@@ -23325,7 +22868,6 @@ existing diagnostics for that resource.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -23355,7 +22897,6 @@ all previous but not subsequent diagnostics are removed.</p>
 	<tr>
 		<td>
 			<a name="entries">
-			</a>
 			<span class="ts" id="1417" data-target="#details-1417" data-toggle="collapse">
 				<span class="ident">
 					entries
@@ -23366,7 +22907,8 @@ all previous but not subsequent diagnostics are removed.</p>
 				<a class="type-ref" href="#ReadonlyArray">
 					ReadonlyArray
 				</a>
-				<[
+				<
+				[
 				<a class="type-ref" href="#Uri">
 					Uri
 				</a>
@@ -23419,7 +22961,6 @@ all previous but not subsequent diagnostics are removed.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -23456,7 +22997,6 @@ a symbol in a scope.</p>
 	<tr>
 		<td>
 			<a name="location">
-			</a>
 			<span class="ts" id="1389" data-target="#details-1389" data-toggle="collapse">
 				<span class="ident">
 					location
@@ -23480,7 +23020,6 @@ a symbol in a scope.</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="1390" data-target="#details-1390" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -23519,7 +23058,6 @@ a symbol in a scope.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -23635,7 +23173,6 @@ instances of Disposable.</p>
 	<tr>
 		<td>
 			<a name="disposableLikes">
-			</a>
 			<span class="ts" id="445" data-target="#details-445" data-toggle="collapse">
 				<span>
 					...
@@ -23716,7 +23253,6 @@ on dispose.</p>
 	<tr>
 		<td>
 			<a name="callOnDispose">
-			</a>
 			<span class="ts" id="452" data-target="#details-452" data-toggle="collapse">
 				<span class="ident">
 					callOnDispose
@@ -23755,7 +23291,6 @@ on dispose.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -23790,7 +23325,6 @@ on dispose.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -23826,7 +23360,6 @@ picking and modifying colors in the editor.</p>
 	<tr>
 		<td>
 			<a name="color">
-			</a>
 			<span class="ts" id="1200" data-target="#details-1200" data-toggle="collapse">
 				<span class="ident">
 					color
@@ -23850,7 +23383,6 @@ picking and modifying colors in the editor.</p>
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="1201" data-target="#details-1201" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -23880,7 +23412,6 @@ picking and modifying colors in the editor.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1205" data-target="#details-1205" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -23962,7 +23493,6 @@ can be signaled by returning
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1196" data-target="#details-1196" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -23986,7 +23516,6 @@ can be signaled by returning
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1197" data-target="#details-1197" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -24126,7 +23655,6 @@ the formatting-feature.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1013" data-target="#details-1013" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -24150,7 +23678,6 @@ the formatting-feature.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1014" data-target="#details-1014" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -24174,7 +23701,6 @@ the formatting-feature.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1015" data-target="#details-1015" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -24267,7 +23793,6 @@ the background color of its range.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="714" data-target="#details-714" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -24291,7 +23816,6 @@ the background color of its range.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="715" data-target="#details-715" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -24337,7 +23861,6 @@ the background color of its range.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -24422,7 +23945,6 @@ all exit-points of a function.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="719" data-target="#details-719" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -24446,7 +23968,6 @@ all exit-points of a function.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="720" data-target="#details-720" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -24470,7 +23991,6 @@ all exit-points of a function.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="721" data-target="#details-721" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -24562,7 +24082,6 @@ text document or a web site.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="1156" data-target="#details-1156" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -24586,7 +24105,6 @@ text document or a web site.</p>
 	<tr>
 		<td>
 			<a name="target">
-			</a>
 			<span class="ts" id="1157" data-target="#details-1157" data-toggle="collapse">
 				<span class="ident">
 					target
@@ -24628,7 +24146,6 @@ text document or a web site.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -24694,7 +24211,6 @@ links in the editor.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1162" data-target="#details-1162" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -24718,7 +24234,6 @@ links in the editor.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1163" data-target="#details-1163" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -24807,7 +24322,6 @@ often helps to improve performance.</p>
 	<tr>
 		<td>
 			<a name="link">
-			</a>
 			<span class="ts" id="1166" data-target="#details-1166" data-toggle="collapse">
 				<span class="ident">
 					link
@@ -24831,7 +24345,6 @@ often helps to improve performance.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1167" data-target="#details-1167" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -24875,7 +24388,6 @@ often helps to improve performance.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -24914,7 +24426,6 @@ of the range to full syntax nodes.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1019" data-target="#details-1019" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -24938,7 +24449,6 @@ of the range to full syntax nodes.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="1020" data-target="#details-1020" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -24962,7 +24472,6 @@ of the range to full syntax nodes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1021" data-target="#details-1021" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -24986,7 +24495,6 @@ of the range to full syntax nodes.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1022" data-target="#details-1022" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -25080,7 +24588,6 @@ semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1002" data-target="#details-1002" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -25095,13 +24602,11 @@ semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="1003" data-target="#details-1003" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -25116,13 +24621,11 @@ semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1004" data-target="#details-1004" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -25137,7 +24640,6 @@ semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -25163,7 +24665,6 @@ semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -25281,7 +24782,6 @@ of the first token, so it will be <code>10 - 5</code>. The third token is on a d
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="992" data-target="#details-992" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -25296,13 +24796,11 @@ of the first token, so it will be <code>10 - 5</code>. The third token is on a d
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="993" data-target="#details-993" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -25317,7 +24815,6 @@ of the first token, so it will be <code>10 - 5</code>. The third token is on a d
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -25343,7 +24840,6 @@ of the first token, so it will be <code>10 - 5</code>. The third token is on a d
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -25388,7 +24884,6 @@ this method (<code>provideDocumentSemanticTokensEdits</code>) and then return in
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="996" data-target="#details-996" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -25403,13 +24898,11 @@ this method (<code>provideDocumentSemanticTokensEdits</code>) and then return in
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="previousResultId">
-			</a>
 			<span class="ts" id="997" data-target="#details-997" data-toggle="collapse">
 				<span class="ident">
 					previousResultId
@@ -25424,13 +24917,11 @@ this method (<code>provideDocumentSemanticTokensEdits</code>) and then return in
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="998" data-target="#details-998" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -25445,7 +24936,6 @@ this method (<code>provideDocumentSemanticTokensEdits</code>) and then return in
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -25475,7 +24965,6 @@ this method (<code>provideDocumentSemanticTokensEdits</code>) and then return in
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -25512,7 +25001,6 @@ its most interesting range, e.g. the range of an identifier.</p>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="779" data-target="#details-779" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -25536,7 +25024,6 @@ its most interesting range, e.g. the range of an identifier.</p>
 	<tr>
 		<td>
 			<a name="detail">
-			</a>
 			<span class="ts" id="780" data-target="#details-780" data-toggle="collapse">
 				<span class="ident">
 					detail
@@ -25560,7 +25047,6 @@ its most interesting range, e.g. the range of an identifier.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="781" data-target="#details-781" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -25584,7 +25070,6 @@ its most interesting range, e.g. the range of an identifier.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="782" data-target="#details-782" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -25608,7 +25093,6 @@ its most interesting range, e.g. the range of an identifier.</p>
 	<tr>
 		<td>
 			<a name="selectionRange">
-			</a>
 			<span class="ts" id="783" data-target="#details-783" data-toggle="collapse">
 				<span class="ident">
 					selectionRange
@@ -25647,7 +25131,6 @@ its most interesting range, e.g. the range of an identifier.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -25742,7 +25225,6 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_go-to-sy
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="787" data-target="#details-787" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -25766,7 +25248,6 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_go-to-sy
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="788" data-target="#details-788" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -25950,7 +25431,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="variable">
-			</a>
 			<span class="ts" id="2154" data-target="#details-2154" data-toggle="collapse">
 				<span class="ident">
 					variable
@@ -25974,7 +25454,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="2155" data-target="#details-2155" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -26013,7 +25492,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26046,7 +25524,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26072,7 +25549,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="variable">
-			</a>
 			<span class="ts" id="2174" data-target="#details-2174" data-toggle="collapse">
 				<span class="ident">
 					variable
@@ -26111,7 +25587,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26137,7 +25612,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="callback">
-			</a>
 			<span class="ts" id="2165" data-target="#details-2165" data-toggle="collapse">
 				<span class="ident">
 					callback
@@ -26174,7 +25648,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="thisArg">
-			</a>
 			<span class="ts" id="2171" data-target="#details-2171" data-toggle="collapse">
 				<span class="ident">
 					thisArg
@@ -26220,7 +25693,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26246,7 +25718,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="variable">
-			</a>
 			<span class="ts" id="2162" data-target="#details-2162" data-toggle="collapse">
 				<span class="ident">
 					variable
@@ -26289,7 +25760,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26317,7 +25787,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="variable">
-			</a>
 			<span class="ts" id="2158" data-target="#details-2158" data-toggle="collapse">
 				<span class="ident">
 					variable
@@ -26341,7 +25810,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="2159" data-target="#details-2159" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -26380,7 +25848,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26408,7 +25875,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="variable">
-			</a>
 			<span class="ts" id="2150" data-target="#details-2150" data-toggle="collapse">
 				<span class="ident">
 					variable
@@ -26432,7 +25898,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="2151" data-target="#details-2151" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -26471,7 +25936,6 @@ overwrite any previous calls to replace, append or prepend.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26565,7 +26029,6 @@ In this case the range is still used to highlight the range in the document.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="697" data-target="#details-697" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -26589,7 +26052,6 @@ In this case the range is still used to highlight the range in the document.</p>
 	<tr>
 		<td>
 			<a name="expression">
-			</a>
 			<span class="ts" id="698" data-target="#details-698" data-toggle="collapse">
 				<span class="ident">
 					expression
@@ -26631,7 +26093,6 @@ In this case the range is still used to highlight the range in the document.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -26686,7 +26147,6 @@ The expression can be implicitly specified by the range in the underlying docume
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="702" data-target="#details-702" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -26710,7 +26170,6 @@ The expression can be implicitly specified by the range in the underlying docume
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="703" data-target="#details-703" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -26734,7 +26193,6 @@ The expression can be implicitly specified by the range in the underlying docume
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="704" data-target="#details-704" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -26831,7 +26289,6 @@ a listener function as argument.</p>
 	<tr>
 		<td>
 			<a name="listener">
-			</a>
 			<span class="ts" id="458" data-target="#details-458" data-toggle="collapse">
 				<span class="ident">
 					listener
@@ -26860,7 +26317,6 @@ a listener function as argument.</p>
 	<tr>
 		<td>
 			<a name="thisArgs">
-			</a>
 			<span class="ts" id="462" data-target="#details-462" data-toggle="collapse">
 				<span class="ident">
 					thisArgs
@@ -26891,7 +26347,6 @@ a listener function as argument.</p>
 	<tr>
 		<td>
 			<a name="disposables">
-			</a>
 			<span class="ts" id="463" data-target="#details-463" data-toggle="collapse">
 				<span class="ident">
 					disposables
@@ -26997,7 +26452,6 @@ API to other extensions.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -27024,7 +26478,6 @@ of one or more listener will not fail this function call.</p>
 	<tr>
 		<td>
 			<a name="data">
-			</a>
 			<span class="ts" id="469" data-target="#details-469" data-toggle="collapse">
 				<span class="ident">
 					data
@@ -27063,7 +26516,6 @@ of one or more listener will not fail this function call.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -27371,7 +26823,6 @@ of the currently opened <a href="#workspace.workspaceFolders">workspace</a>.</p>
 	<tr>
 		<td>
 			<a name="relativePath">
-			</a>
 			<span class="ts" id="1563" data-target="#details-1563" data-toggle="collapse">
 				<span class="ident">
 					relativePath
@@ -27688,7 +27139,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="source">
-			</a>
 			<span class="ts" id="1862" data-target="#details-1862" data-toggle="collapse">
 				<span class="ident">
 					source
@@ -27712,7 +27162,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="target">
-			</a>
 			<span class="ts" id="1863" data-target="#details-1863" data-toggle="collapse">
 				<span class="ident">
 					target
@@ -27727,13 +27176,11 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1864" data-target="#details-1864" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -27782,7 +27229,6 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -27810,7 +27256,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1838" data-target="#details-1838" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -27854,7 +27299,6 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -27880,7 +27324,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1848" data-target="#details-1848" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -27904,7 +27347,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1849" data-target="#details-1849" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -27957,7 +27399,6 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -27983,7 +27424,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1835" data-target="#details-1835" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -28018,7 +27458,8 @@ remote extension host or ftp-servers.</p>
 				<a class="type-ref" href="#Thenable">
 					Thenable
 				</a>
-				<[
+				<
+				[
 				<a class="type-intrinsic">
 					string
 				</a>
@@ -28060,7 +27501,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1841" data-target="#details-1841" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -28133,7 +27573,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="source">
-			</a>
 			<span class="ts" id="1855" data-target="#details-1855" data-toggle="collapse">
 				<span class="ident">
 					source
@@ -28148,13 +27587,11 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="target">
-			</a>
 			<span class="ts" id="1856" data-target="#details-1856" data-toggle="collapse">
 				<span class="ident">
 					target
@@ -28169,13 +27606,11 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1857" data-target="#details-1857" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -28224,7 +27659,6 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28250,7 +27684,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1832" data-target="#details-1832" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -28323,7 +27756,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1844" data-target="#details-1844" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -28347,7 +27779,6 @@ remote extension host or ftp-servers.</p>
 	<tr>
 		<td>
 			<a name="content">
-			</a>
 			<span class="ts" id="1845" data-target="#details-1845" data-toggle="collapse">
 				<span class="ident">
 					content
@@ -28391,7 +27822,6 @@ remote extension host or ftp-servers.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28436,7 +27866,6 @@ creating but not overwriting a file.</p>
 	<tr>
 		<td>
 			<a name="messageOrUri">
-			</a>
 			<span class="ts" id="1752" data-target="#details-1752" data-toggle="collapse">
 				<span class="ident">
 					messageOrUri
@@ -28482,7 +27911,6 @@ creating but not overwriting a file.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28508,7 +27936,6 @@ creating but not overwriting a file.</p>
 	<tr>
 		<td>
 			<a name="messageOrUri">
-			</a>
 			<span class="ts" id="1758" data-target="#details-1758" data-toggle="collapse">
 				<span class="ident">
 					messageOrUri
@@ -28554,7 +27981,6 @@ creating but not overwriting a file.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28580,7 +28006,6 @@ creating but not overwriting a file.</p>
 	<tr>
 		<td>
 			<a name="messageOrUri">
-			</a>
 			<span class="ts" id="1755" data-target="#details-1755" data-toggle="collapse">
 				<span class="ident">
 					messageOrUri
@@ -28626,7 +28051,6 @@ creating but not overwriting a file.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28652,7 +28076,6 @@ creating but not overwriting a file.</p>
 	<tr>
 		<td>
 			<a name="messageOrUri">
-			</a>
 			<span class="ts" id="1749" data-target="#details-1749" data-toggle="collapse">
 				<span class="ident">
 					messageOrUri
@@ -28698,7 +28121,6 @@ creating but not overwriting a file.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28724,7 +28146,6 @@ creating but not overwriting a file.</p>
 	<tr>
 		<td>
 			<a name="messageOrUri">
-			</a>
 			<span class="ts" id="1761" data-target="#details-1761" data-toggle="collapse">
 				<span class="ident">
 					messageOrUri
@@ -28770,7 +28191,6 @@ creating but not overwriting a file.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28797,7 +28217,6 @@ complete a request.</p>
 	<tr>
 		<td>
 			<a name="messageOrUri">
-			</a>
 			<span class="ts" id="1764" data-target="#details-1764" data-toggle="collapse">
 				<span class="ident">
 					messageOrUri
@@ -28843,7 +28262,6 @@ complete a request.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -28871,7 +28289,6 @@ complete a request.</p>
 	<tr>
 		<td>
 			<a name="messageOrUri">
-			</a>
 			<span class="ts" id="1767" data-target="#details-1767" data-toggle="collapse">
 				<span class="ident">
 					messageOrUri
@@ -28917,7 +28334,6 @@ complete a request.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -29024,7 +28440,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="source">
-			</a>
 			<span class="ts" id="1824" data-target="#details-1824" data-toggle="collapse">
 				<span class="ident">
 					source
@@ -29048,7 +28463,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="destination">
-			</a>
 			<span class="ts" id="1825" data-target="#details-1825" data-toggle="collapse">
 				<span class="ident">
 					destination
@@ -29072,7 +28486,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1826" data-target="#details-1826" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -29122,7 +28535,6 @@ the copy operation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -29157,7 +28569,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1797" data-target="#details-1797" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -29205,7 +28616,6 @@ the copy operation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -29237,7 +28647,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1811" data-target="#details-1811" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -29261,7 +28670,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1812" data-target="#details-1812" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -29311,7 +28719,6 @@ the copy operation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -29340,7 +28747,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1794" data-target="#details-1794" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -29384,7 +28790,8 @@ the copy operation.</p>
 				<a class="type-ref" href="#Thenable">
 					Thenable
 				</a>
-				<[
+				<
+				[
 				<a class="type-intrinsic">
 					string
 				</a>
@@ -29429,7 +28836,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1800" data-target="#details-1800" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -29518,7 +28924,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="oldUri">
-			</a>
 			<span class="ts" id="1817" data-target="#details-1817" data-toggle="collapse">
 				<span class="ident">
 					oldUri
@@ -29542,7 +28947,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="newUri">
-			</a>
 			<span class="ts" id="1818" data-target="#details-1818" data-toggle="collapse">
 				<span class="ident">
 					newUri
@@ -29566,7 +28970,6 @@ the copy operation.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1819" data-target="#details-1819" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -29616,7 +29019,6 @@ the copy operation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -29648,7 +29050,6 @@ Still, the <a href="#FileType.SymbolicLink">SymbolicLink</a>-type must be used i
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1791" data-target="#details-1791" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -29728,7 +29129,6 @@ and if subfolders, sub-subfolder, etc. should be watched (<code>recursive</code>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1784" data-target="#details-1784" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -29752,7 +29152,6 @@ and if subfolders, sub-subfolder, etc. should be watched (<code>recursive</code>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1785" data-target="#details-1785" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -29842,7 +29241,6 @@ and if subfolders, sub-subfolder, etc. should be watched (<code>recursive</code>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1803" data-target="#details-1803" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -29866,7 +29264,6 @@ and if subfolders, sub-subfolder, etc. should be watched (<code>recursive</code>
 	<tr>
 		<td>
 			<a name="content">
-			</a>
 			<span class="ts" id="1804" data-target="#details-1804" data-toggle="collapse">
 				<span class="ident">
 					content
@@ -29890,7 +29287,6 @@ and if subfolders, sub-subfolder, etc. should be watched (<code>recursive</code>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1805" data-target="#details-1805" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -29944,7 +29340,6 @@ and if subfolders, sub-subfolder, etc. should be watched (<code>recursive</code>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30010,7 +29405,6 @@ instances of Disposable.</p>
 	<tr>
 		<td>
 			<a name="disposableLikes">
-			</a>
 			<span class="ts" id="481" data-target="#details-481" data-toggle="collapse">
 				<span>
 					...
@@ -30091,7 +29485,6 @@ on dispose.</p>
 	<tr>
 		<td>
 			<a name="callOnDispose">
-			</a>
 			<span class="ts" id="488" data-target="#details-488" data-toggle="collapse">
 				<span class="ident">
 					callOnDispose
@@ -30130,7 +29523,6 @@ on dispose.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30194,7 +29586,6 @@ it ignores delete file system events.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30292,7 +29683,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2287" data-target="#details-2287" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -30336,7 +29726,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30363,7 +29752,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2289" data-target="#details-2289" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -30407,7 +29795,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30466,7 +29853,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2296" data-target="#details-2296" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -30510,7 +29896,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30537,7 +29922,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2298" data-target="#details-2298" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -30581,7 +29965,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30640,7 +30023,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2308" data-target="#details-2308" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -30684,7 +30066,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30711,7 +30092,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2310" data-target="#details-2310" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -30755,7 +30135,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30798,7 +30177,6 @@ Invalid ranges will be ignored.</p>
 	<tr>
 		<td>
 			<a name="start">
-			</a>
 			<span class="ts" id="1212" data-target="#details-1212" data-toggle="collapse">
 				<span class="ident">
 					start
@@ -30822,7 +30200,6 @@ Invalid ranges will be ignored.</p>
 	<tr>
 		<td>
 			<a name="end">
-			</a>
 			<span class="ts" id="1213" data-target="#details-1213" data-toggle="collapse">
 				<span class="ident">
 					end
@@ -30846,7 +30223,6 @@ Invalid ranges will be ignored.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="1214" data-target="#details-1214" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -30888,7 +30264,6 @@ Invalid ranges will be ignored.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -30990,7 +30365,6 @@ does not want to participate or was cancelled.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1223" data-target="#details-1223" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -31014,7 +30388,6 @@ does not want to participate or was cancelled.</p>
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="1224" data-target="#details-1224" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -31038,7 +30411,6 @@ does not want to participate or was cancelled.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1225" data-target="#details-1225" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -31082,7 +30454,6 @@ does not want to participate or was cancelled.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -31142,7 +30513,6 @@ does not want to participate or was cancelled.</p>
 	<tr>
 		<td>
 			<a name="functionName">
-			</a>
 			<span class="ts" id="2531" data-target="#details-2531" data-toggle="collapse">
 				<span class="ident">
 					functionName
@@ -31157,13 +30527,11 @@ does not want to participate or was cancelled.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="enabled">
-			</a>
 			<span class="ts" id="2532" data-target="#details-2532" data-toggle="collapse">
 				<span class="ident">
 					enabled
@@ -31181,13 +30549,11 @@ does not want to participate or was cancelled.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="condition">
-			</a>
 			<span class="ts" id="2533" data-target="#details-2533" data-toggle="collapse">
 				<span class="ident">
 					condition
@@ -31205,13 +30571,11 @@ does not want to participate or was cancelled.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="hitCondition">
-			</a>
 			<span class="ts" id="2534" data-target="#details-2534" data-toggle="collapse">
 				<span class="ident">
 					hitCondition
@@ -31229,13 +30593,11 @@ does not want to participate or was cancelled.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="logMessage">
-			</a>
 			<span class="ts" id="2535" data-target="#details-2535" data-toggle="collapse">
 				<span class="ident">
 					logMessage
@@ -31253,7 +30615,6 @@ does not want to participate or was cancelled.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -31274,7 +30635,6 @@ does not want to participate or was cancelled.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -31385,7 +30745,6 @@ rendered in a tooltip-like widget.</p>
 	<tr>
 		<td>
 			<a name="contents">
-			</a>
 			<span class="ts" id="684" data-target="#details-684" data-toggle="collapse">
 				<span class="ident">
 					contents
@@ -31414,7 +30773,6 @@ rendered in a tooltip-like widget.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="685" data-target="#details-685" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -31456,7 +30814,6 @@ rendered in a tooltip-like widget.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -31514,7 +30871,6 @@ to the word range at the position when omitted.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="689" data-target="#details-689" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -31538,7 +30894,6 @@ to the word range at the position when omitted.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="690" data-target="#details-690" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -31562,7 +30917,6 @@ to the word range at the position when omitted.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="691" data-target="#details-691" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -31654,7 +31008,6 @@ the go to implementation feature.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="646" data-target="#details-646" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -31678,7 +31031,6 @@ the go to implementation feature.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="647" data-target="#details-647" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -31702,7 +31054,6 @@ the go to implementation feature.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="648" data-target="#details-648" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -32028,7 +31379,6 @@ accessed. Instead a new input UI should be created.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32062,7 +31412,6 @@ event.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32096,7 +31445,6 @@ UI will first fire an <a href="#QuickInput.onDidHide">QuickInput.onDidHide</a> e
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32185,7 +31533,6 @@ to the user.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="548" data-target="#details-548" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -32374,7 +31721,6 @@ inside a text file.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="1370" data-target="#details-1370" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -32398,7 +31744,6 @@ inside a text file.</p>
 	<tr>
 		<td>
 			<a name="rangeOrPosition">
-			</a>
 			<span class="ts" id="1371" data-target="#details-1371" data-toggle="collapse">
 				<span class="ident">
 					rangeOrPosition
@@ -32441,7 +31786,6 @@ inside a text file.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32541,7 +31885,6 @@ the <code>$(&lt;name&gt;)</code>-syntax is supported.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="667" data-target="#details-667" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -32568,7 +31911,6 @@ the <code>$(&lt;name&gt;)</code>-syntax is supported.</p>
 	<tr>
 		<td>
 			<a name="supportThemeIcons">
-			</a>
 			<span class="ts" id="668" data-target="#details-668" data-toggle="collapse">
 				<span class="ident">
 					supportThemeIcons
@@ -32620,7 +31962,6 @@ the <code>$(&lt;name&gt;)</code>-syntax is supported.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32675,7 +32016,6 @@ markdown supports links that execute commands, e.g. <code>[Run it](command:myCom
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="677" data-target="#details-677" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -32699,7 +32039,6 @@ markdown supports links that execute commands, e.g. <code>[Run it](command:myCom
 	<tr>
 		<td>
 			<a name="language">
-			</a>
 			<span class="ts" id="678" data-target="#details-678" data-toggle="collapse">
 				<span class="ident">
 					language
@@ -32745,7 +32084,6 @@ markdown supports links that execute commands, e.g. <code>[Run it](command:myCom
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32771,7 +32109,6 @@ markdown supports links that execute commands, e.g. <code>[Run it](command:myCom
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="674" data-target="#details-674" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -32810,7 +32147,6 @@ markdown supports links that execute commands, e.g. <code>[Run it](command:myCom
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32836,7 +32172,6 @@ markdown supports links that execute commands, e.g. <code>[Run it](command:myCom
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="671" data-target="#details-671" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -32875,7 +32210,6 @@ markdown supports links that execute commands, e.g. <code>[Run it](command:myCom
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -32927,7 +32261,6 @@ values.</p>
 	<tr>
 		<td>
 			<a name="key">
-			</a>
 			<span class="ts" id="1575" data-target="#details-1575" data-toggle="collapse">
 				<span class="ident">
 					key
@@ -33003,7 +32336,6 @@ values.</p>
 	<tr>
 		<td>
 			<a name="key">
-			</a>
 			<span class="ts" id="1578" data-target="#details-1578" data-toggle="collapse">
 				<span class="ident">
 					key
@@ -33027,7 +32359,6 @@ values.</p>
 	<tr>
 		<td>
 			<a name="defaultValue">
-			</a>
 			<span class="ts" id="1579" data-target="#details-1579" data-toggle="collapse">
 				<span class="ident">
 					defaultValue
@@ -33100,7 +32431,6 @@ value (
 	<tr>
 		<td>
 			<a name="key">
-			</a>
 			<span class="ts" id="1582" data-target="#details-1582" data-toggle="collapse">
 				<span class="ident">
 					key
@@ -33124,7 +32454,6 @@ value (
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="1583" data-target="#details-1583" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -33168,7 +32497,6 @@ value (
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -33304,7 +32632,6 @@ when <code>}</code> has been entered.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1026" data-target="#details-1026" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -33328,7 +32655,6 @@ when <code>}</code> has been entered.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="1027" data-target="#details-1027" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -33352,7 +32678,6 @@ when <code>}</code> has been entered.</p>
 	<tr>
 		<td>
 			<a name="ch">
-			</a>
 			<span class="ts" id="1028" data-target="#details-1028" data-toggle="collapse">
 				<span class="ident">
 					ch
@@ -33376,7 +32701,6 @@ when <code>}</code> has been entered.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1029" data-target="#details-1029" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -33400,7 +32724,6 @@ when <code>}</code> has been entered.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1030" data-target="#details-1030" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -33583,7 +32906,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="1456" data-target="#details-1456" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -33622,7 +32944,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -33649,7 +32970,6 @@ to the channel.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="1459" data-target="#details-1459" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -33688,7 +33008,6 @@ to the channel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -33721,7 +33040,6 @@ to the channel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -33754,7 +33072,6 @@ to the channel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -33787,7 +33104,6 @@ to the channel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -33813,7 +33129,6 @@ to the channel.</p>
 	<tr>
 		<td>
 			<a name="preserveFocus">
-			</a>
 			<span class="ts" id="1464" data-target="#details-1464" data-toggle="collapse">
 				<span class="ident">
 					preserveFocus
@@ -33859,7 +33174,6 @@ to the channel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -33888,7 +33202,6 @@ to the channel.</p>
 	<tr>
 		<td>
 			<a name="column">
-			</a>
 			<span class="ts" id="1466" data-target="#details-1466" data-toggle="collapse">
 				<span class="ident">
 					column
@@ -33919,7 +33232,6 @@ to the channel.</p>
 	<tr>
 		<td>
 			<a name="preserveFocus">
-			</a>
 			<span class="ts" id="1467" data-target="#details-1467" data-toggle="collapse">
 				<span class="ident">
 					preserveFocus
@@ -33965,7 +33277,6 @@ to the channel.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -34039,7 +33350,6 @@ have a label and a doc-comment.</p>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="1036" data-target="#details-1036" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -34072,7 +33382,6 @@ have a label and a doc-comment.</p>
 	<tr>
 		<td>
 			<a name="documentation">
-			</a>
 			<span class="ts" id="1037" data-target="#details-1037" data-toggle="collapse">
 				<span class="ident">
 					documentation
@@ -34118,7 +33427,6 @@ have a label and a doc-comment.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -34178,7 +33486,6 @@ from an existing position.</p>
 	<tr>
 		<td>
 			<a name="line">
-			</a>
 			<span class="ts" id="79" data-target="#details-79" data-toggle="collapse">
 				<span class="ident">
 					line
@@ -34202,7 +33509,6 @@ from an existing position.</p>
 	<tr>
 		<td>
 			<a name="character">
-			</a>
 			<span class="ts" id="80" data-target="#details-80" data-toggle="collapse">
 				<span class="ident">
 					character
@@ -34241,7 +33547,6 @@ from an existing position.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -34287,7 +33592,6 @@ from an existing position.</p>
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="98" data-target="#details-98" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -34357,7 +33661,6 @@ this and the given position are equal.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="89" data-target="#details-89" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -34429,7 +33732,6 @@ or on the same line on a greater character.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="92" data-target="#details-92" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -34501,7 +33803,6 @@ or on the same line on a greater or equal character.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="83" data-target="#details-83" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -34573,7 +33874,6 @@ or on the same line on a smaller character.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="86" data-target="#details-86" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -34645,7 +33945,6 @@ or on the same line on a smaller or equal character.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="95" data-target="#details-95" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -34717,7 +34016,6 @@ the line and character of this position.
 	<tr>
 		<td>
 			<a name="lineDelta">
-			</a>
 			<span class="ts" id="101" data-target="#details-101" data-toggle="collapse">
 				<span class="ident">
 					lineDelta
@@ -34748,7 +34046,6 @@ the line and character of this position.
 	<tr>
 		<td>
 			<a name="characterDelta">
-			</a>
 			<span class="ts" id="102" data-target="#details-102" data-toggle="collapse">
 				<span class="ident">
 					characterDelta
@@ -34824,7 +34121,6 @@ character and the corresponding deltas.
 	<tr>
 		<td>
 			<a name="change">
-			</a>
 			<span class="ts" id="104" data-target="#details-104" data-toggle="collapse">
 				<span class="ident">
 					change
@@ -34903,7 +34199,6 @@ is not changing anything.
 	<tr>
 		<td>
 			<a name="line">
-			</a>
 			<span class="ts" id="110" data-target="#details-110" data-toggle="collapse">
 				<span class="ident">
 					line
@@ -34933,7 +34228,6 @@ is not changing anything.
 	<tr>
 		<td>
 			<a name="character">
-			</a>
 			<span class="ts" id="111" data-target="#details-111" data-toggle="collapse">
 				<span class="ident">
 					character
@@ -35007,7 +34301,6 @@ is not changing anything.
 	<tr>
 		<td>
 			<a name="change">
-			</a>
 			<span class="ts" id="113" data-target="#details-113" data-toggle="collapse">
 				<span class="ident">
 					change
@@ -35096,7 +34389,6 @@ without shell interaction.</p>
 	<tr>
 		<td>
 			<a name="process">
-			</a>
 			<span class="ts" id="1627" data-target="#details-1627" data-toggle="collapse">
 				<span class="ident">
 					process
@@ -35120,7 +34412,6 @@ without shell interaction.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1628" data-target="#details-1628" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -35162,7 +34453,6 @@ without shell interaction.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -35188,7 +34478,6 @@ without shell interaction.</p>
 	<tr>
 		<td>
 			<a name="process">
-			</a>
 			<span class="ts" id="1630" data-target="#details-1630" data-toggle="collapse">
 				<span class="ident">
 					process
@@ -35212,7 +34501,6 @@ without shell interaction.</p>
 	<tr>
 		<td>
 			<a name="args">
-			</a>
 			<span class="ts" id="1631" data-target="#details-1631" data-toggle="collapse">
 				<span class="ident">
 					args
@@ -35237,7 +34525,6 @@ without shell interaction.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1632" data-target="#details-1632" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -35279,7 +34566,6 @@ without shell interaction.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -35369,7 +34655,6 @@ the parent process&#39; environment.</p>
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="1496" data-target="#details-1496" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -35409,7 +34694,6 @@ report on how much work finished
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -35642,7 +34926,6 @@ vscode.window.createTerminal({ name: &#39;My terminal&#39;, pty });
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -35670,7 +34953,6 @@ their corresponding VT sequence representation.</p>
 	<tr>
 		<td>
 			<a name="data">
-			</a>
 			<span class="ts" id="2130" data-target="#details-2130" data-toggle="collapse">
 				<span class="ident">
 					data
@@ -35701,7 +34983,9 @@ CRLF to go to a new line and move the cursor to the start of the line.
 				</p>
 				<pre>
 					<code class="lang-typescript">
-						const writeEmitter = new vscode.EventEmitter<string>();
+						const writeEmitter = new vscode.EventEmitter
+						<string>
+							();
 const pty: vscode.Pseudoterminal = {
   onDidWrite: writeEmitter.event,
   open: () => {},
@@ -35709,29 +34993,29 @@ const pty: vscode.Pseudoterminal = {
   handleInput: data => writeEmitter.fire(data === '\r' ? '\r\n' : data)
 };
 vscode.window.createTerminal({ name: 'Local echo', pty });
+							<tr>
+								<th>
+									Returns
+								</th>
+								<th>
+									Description
+								</th>
+							</tr>
+							<tr>
+								<td>
+									<span class="ts">
+										<a class="type-intrinsic">
+											void
+										</a>
+									</span>
+								</td>
+								<td>
+									<div class="comment">
+								</td>
+							</tr>
+						</string>
 					</code>
 				</pre>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<th>
-			Returns
-		</th>
-		<th>
-			Description
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<span class="ts">
-				<a class="type-intrinsic">
-					void
-				</a>
-			</span>
-		</td>
-		<td>
-			<div class="comment">
 			</div>
 		</td>
 	</tr>
@@ -35758,7 +35042,6 @@ vscode.window.createTerminal({ name: 'Local echo', pty });
 	<tr>
 		<td>
 			<a name="initialDimensions">
-			</a>
 			<span class="ts" id="2125" data-target="#details-2125" data-toggle="collapse">
 				<span class="ident">
 					initialDimensions
@@ -35802,7 +35085,6 @@ terminal panel has not been opened before this is called.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -35835,7 +35117,6 @@ to react dimension changes.</p>
 	<tr>
 		<td>
 			<a name="dimensions">
-			</a>
 			<span class="ts" id="2133" data-target="#details-2133" data-toggle="collapse">
 				<span class="ident">
 					dimensions
@@ -35874,7 +35155,6 @@ to react dimension changes.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -35908,7 +35188,6 @@ to react dimension changes.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="2335" data-target="#details-2335" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -35932,7 +35211,6 @@ to react dimension changes.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="2336" data-target="#details-2336" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -36106,7 +35384,6 @@ accessed. Instead a new input UI should be created.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36140,7 +35417,6 @@ event.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36174,7 +35450,6 @@ UI will first fire an <a href="#QuickInput.onDidHide">QuickInput.onDidHide</a> e
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36449,7 +35724,6 @@ accessed. Instead a new input UI should be created.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36483,7 +35757,6 @@ event.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36517,7 +35790,6 @@ UI will first fire an <a href="#QuickInput.onDidHide">QuickInput.onDidHide</a> e
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36609,7 +35881,6 @@ the <code>$(&lt;name&gt;)</code>-syntax.</p>
 	<tr>
 		<td>
 			<a name="item">
-			</a>
 			<span class="ts" id="511" data-target="#details-511" data-toggle="collapse">
 				<span class="ident">
 					item
@@ -36628,7 +35899,6 @@ the <code>$(&lt;name&gt;)</code>-syntax.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -36649,7 +35919,6 @@ the <code>$(&lt;name&gt;)</code>-syntax.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36731,7 +36000,6 @@ before or equal to <code>end</code>, the values will be swapped.</p>
 	<tr>
 		<td>
 			<a name="start">
-			</a>
 			<span class="ts" id="122" data-target="#details-122" data-toggle="collapse">
 				<span class="ident">
 					start
@@ -36755,7 +36023,6 @@ before or equal to <code>end</code>, the values will be swapped.</p>
 	<tr>
 		<td>
 			<a name="end">
-			</a>
 			<span class="ts" id="123" data-target="#details-123" data-toggle="collapse">
 				<span class="ident">
 					end
@@ -36794,7 +36061,6 @@ before or equal to <code>end</code>, the values will be swapped.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36821,7 +36087,6 @@ using <code>new Range(new Position(startLine, startCharacter), new Position(endL
 	<tr>
 		<td>
 			<a name="startLine">
-			</a>
 			<span class="ts" id="125" data-target="#details-125" data-toggle="collapse">
 				<span class="ident">
 					startLine
@@ -36845,7 +36110,6 @@ using <code>new Range(new Position(startLine, startCharacter), new Position(endL
 	<tr>
 		<td>
 			<a name="startCharacter">
-			</a>
 			<span class="ts" id="126" data-target="#details-126" data-toggle="collapse">
 				<span class="ident">
 					startCharacter
@@ -36869,7 +36133,6 @@ using <code>new Range(new Position(startLine, startCharacter), new Position(endL
 	<tr>
 		<td>
 			<a name="endLine">
-			</a>
 			<span class="ts" id="127" data-target="#details-127" data-toggle="collapse">
 				<span class="ident">
 					endLine
@@ -36893,7 +36156,6 @@ using <code>new Range(new Position(startLine, startCharacter), new Position(endL
 	<tr>
 		<td>
 			<a name="endCharacter">
-			</a>
 			<span class="ts" id="128" data-target="#details-128" data-toggle="collapse">
 				<span class="ident">
 					endCharacter
@@ -36932,7 +36194,6 @@ using <code>new Range(new Position(startLine, startCharacter), new Position(endL
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -36994,7 +36255,6 @@ using <code>new Range(new Position(startLine, startCharacter), new Position(endL
 	<tr>
 		<td>
 			<a name="positionOrRange">
-			</a>
 			<span class="ts" id="133" data-target="#details-133" data-toggle="collapse">
 				<span class="ident">
 					positionOrRange
@@ -37071,7 +36331,6 @@ if the ranges have no overlap.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="139" data-target="#details-139" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -37144,7 +36403,6 @@ return undefined when there is no overlap.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="136" data-target="#details-136" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -37220,7 +36478,6 @@ start and end of this range.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="142" data-target="#details-142" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -37288,7 +36545,6 @@ start and end of this range.
 	<tr>
 		<td>
 			<a name="start">
-			</a>
 			<span class="ts" id="145" data-target="#details-145" data-toggle="collapse">
 				<span class="ident">
 					start
@@ -37319,7 +36575,6 @@ start and end of this range.
 	<tr>
 		<td>
 			<a name="end">
-			</a>
 			<span class="ts" id="146" data-target="#details-146" data-toggle="collapse">
 				<span class="ident">
 					end
@@ -37399,7 +36654,6 @@ If start and end are not different
 	<tr>
 		<td>
 			<a name="change">
-			</a>
 			<span class="ts" id="148" data-target="#details-148" data-toggle="collapse">
 				<span class="ident">
 					change
@@ -37506,7 +36760,6 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_peek">fi
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="806" data-target="#details-806" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -37530,7 +36783,6 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_peek">fi
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="807" data-target="#details-807" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -37554,7 +36806,6 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_peek">fi
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="808" data-target="#details-808" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -37569,13 +36820,11 @@ the <a href="https://code.visualstudio.com/docs/editing/editingevolved#_peek">fi
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="809" data-target="#details-809" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -37669,7 +36918,6 @@ will be matched on file paths relative to the base path.</p>
 	<tr>
 		<td>
 			<a name="base">
-			</a>
 			<span class="ts" id="554" data-target="#details-554" data-toggle="collapse">
 				<span class="ident">
 					base
@@ -37697,7 +36945,6 @@ will be matched on file paths relative to the base path.</p>
 	<tr>
 		<td>
 			<a name="pattern">
-			</a>
 			<span class="ts" id="555" data-target="#details-555" data-toggle="collapse">
 				<span class="ident">
 					pattern
@@ -37741,7 +36988,6 @@ relative to the base path.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -37802,7 +37048,6 @@ doesn&#39;t allow for a rename.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="934" data-target="#details-934" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -37826,7 +37071,6 @@ doesn&#39;t allow for a rename.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="935" data-target="#details-935" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -37850,7 +37094,6 @@ doesn&#39;t allow for a rename.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="936" data-target="#details-936" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -37940,7 +37183,6 @@ or many resources to rename a symbol to a different name.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="928" data-target="#details-928" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -37964,7 +37206,6 @@ or many resources to rename a symbol to a different name.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="929" data-target="#details-929" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -37988,7 +37229,6 @@ or many resources to rename a symbol to a different name.</p>
 	<tr>
 		<td>
 			<a name="newName">
-			</a>
 			<span class="ts" id="930" data-target="#details-930" data-toggle="collapse">
 				<span class="ident">
 					newName
@@ -38012,7 +37252,6 @@ or many resources to rename a symbol to a different name.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="931" data-target="#details-931" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -38170,7 +37409,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 	<tr>
 		<td>
 			<a name="anchor">
-			</a>
 			<span class="ts" id="157" data-target="#details-157" data-toggle="collapse">
 				<span class="ident">
 					anchor
@@ -38194,7 +37432,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 	<tr>
 		<td>
 			<a name="active">
-			</a>
 			<span class="ts" id="158" data-target="#details-158" data-toggle="collapse">
 				<span class="ident">
 					active
@@ -38233,7 +37470,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -38259,7 +37495,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 	<tr>
 		<td>
 			<a name="anchorLine">
-			</a>
 			<span class="ts" id="160" data-target="#details-160" data-toggle="collapse">
 				<span class="ident">
 					anchorLine
@@ -38283,7 +37518,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 	<tr>
 		<td>
 			<a name="anchorCharacter">
-			</a>
 			<span class="ts" id="161" data-target="#details-161" data-toggle="collapse">
 				<span class="ident">
 					anchorCharacter
@@ -38307,7 +37541,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 	<tr>
 		<td>
 			<a name="activeLine">
-			</a>
 			<span class="ts" id="162" data-target="#details-162" data-toggle="collapse">
 				<span class="ident">
 					activeLine
@@ -38331,7 +37564,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 	<tr>
 		<td>
 			<a name="activeCharacter">
-			</a>
 			<span class="ts" id="163" data-target="#details-163" data-toggle="collapse">
 				<span class="ident">
 					activeCharacter
@@ -38370,7 +37602,6 @@ like &quot;TypeScript&quot;, and an array of extensions, e.g.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -38458,7 +37689,6 @@ This position might be before or after <a href="#Selection.active">active</a>.</
 	<tr>
 		<td>
 			<a name="positionOrRange">
-			</a>
 			<span class="ts" id="171" data-target="#details-171" data-toggle="collapse">
 				<span class="ident">
 					positionOrRange
@@ -38535,7 +37765,6 @@ if the ranges have no overlap.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="177" data-target="#details-177" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -38608,7 +37837,6 @@ return undefined when there is no overlap.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="174" data-target="#details-174" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -38684,7 +37912,6 @@ start and end of this range.
 	<tr>
 		<td>
 			<a name="other">
-			</a>
 			<span class="ts" id="180" data-target="#details-180" data-toggle="collapse">
 				<span class="ident">
 					other
@@ -38752,7 +37979,6 @@ start and end of this range.
 	<tr>
 		<td>
 			<a name="start">
-			</a>
 			<span class="ts" id="183" data-target="#details-183" data-toggle="collapse">
 				<span class="ident">
 					start
@@ -38783,7 +38009,6 @@ start and end of this range.
 	<tr>
 		<td>
 			<a name="end">
-			</a>
 			<span class="ts" id="184" data-target="#details-184" data-toggle="collapse">
 				<span class="ident">
 					end
@@ -38863,7 +38088,6 @@ If start and end are not different
 	<tr>
 		<td>
 			<a name="change">
-			</a>
 			<span class="ts" id="186" data-target="#details-186" data-toggle="collapse">
 				<span class="ident">
 					change
@@ -38952,7 +38176,6 @@ may have a parent selection range that contains it.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="1231" data-target="#details-1231" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -38976,7 +38199,6 @@ may have a parent selection range that contains it.</p>
 	<tr>
 		<td>
 			<a name="parent">
-			</a>
 			<span class="ts" id="1232" data-target="#details-1232" data-toggle="collapse">
 				<span class="ident">
 					parent
@@ -39018,7 +38240,6 @@ may have a parent selection range that contains it.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -39073,7 +38294,6 @@ is <a href="#Range.contains">contained</a> by its parent.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1236" data-target="#details-1236" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -39097,7 +38317,6 @@ is <a href="#Range.contains">contained</a> by its parent.</p>
 	<tr>
 		<td>
 			<a name="positions">
-			</a>
 			<span class="ts" id="1237" data-target="#details-1237" data-toggle="collapse">
 				<span class="ident">
 					positions
@@ -39122,7 +38341,6 @@ is <a href="#Range.contains">contained</a> by its parent.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1238" data-target="#details-1238" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -39218,7 +38436,6 @@ signaled by returning
 	<tr>
 		<td>
 			<a name="data">
-			</a>
 			<span class="ts" id="970" data-target="#details-970" data-toggle="collapse">
 				<span class="ident">
 					data
@@ -39233,13 +38450,11 @@ signaled by returning
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="resultId">
-			</a>
 			<span class="ts" id="971" data-target="#details-971" data-toggle="collapse">
 				<span class="ident">
 					resultId
@@ -39257,7 +38472,6 @@ signaled by returning
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -39278,7 +38492,6 @@ signaled by returning
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -39335,7 +38548,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="legend">
-			</a>
 			<span class="ts" id="950" data-target="#details-950" data-toggle="collapse">
 				<span class="ident">
 					legend
@@ -39353,7 +38565,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -39374,7 +38585,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -39402,7 +38612,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="resultId">
-			</a>
 			<span class="ts" id="964" data-target="#details-964" data-toggle="collapse">
 				<span class="ident">
 					resultId
@@ -39420,7 +38629,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -39441,7 +38649,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -39467,7 +38674,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="line">
-			</a>
 			<span class="ts" id="953" data-target="#details-953" data-toggle="collapse">
 				<span class="ident">
 					line
@@ -39491,7 +38697,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="char">
-			</a>
 			<span class="ts" id="954" data-target="#details-954" data-toggle="collapse">
 				<span class="ident">
 					char
@@ -39515,7 +38720,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="length">
-			</a>
 			<span class="ts" id="955" data-target="#details-955" data-toggle="collapse">
 				<span class="ident">
 					length
@@ -39539,7 +38743,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="tokenType">
-			</a>
 			<span class="ts" id="956" data-target="#details-956" data-toggle="collapse">
 				<span class="ident">
 					tokenType
@@ -39563,7 +38766,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="tokenModifiers">
-			</a>
 			<span class="ts" id="957" data-target="#details-957" data-toggle="collapse">
 				<span class="ident">
 					tokenModifiers
@@ -39605,7 +38807,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -39631,7 +38832,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="959" data-target="#details-959" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -39655,7 +38855,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="tokenType">
-			</a>
 			<span class="ts" id="960" data-target="#details-960" data-toggle="collapse">
 				<span class="ident">
 					tokenType
@@ -39679,7 +38878,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="tokenModifiers">
-			</a>
 			<span class="ts" id="961" data-target="#details-961" data-toggle="collapse">
 				<span class="ident">
 					tokenModifiers
@@ -39722,7 +38920,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -39759,7 +38956,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="start">
-			</a>
 			<span class="ts" id="985" data-target="#details-985" data-toggle="collapse">
 				<span class="ident">
 					start
@@ -39774,13 +38970,11 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="deleteCount">
-			</a>
 			<span class="ts" id="986" data-target="#details-986" data-toggle="collapse">
 				<span class="ident">
 					deleteCount
@@ -39795,13 +38989,11 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="data">
-			</a>
 			<span class="ts" id="987" data-target="#details-987" data-toggle="collapse">
 				<span class="ident">
 					data
@@ -39819,7 +39011,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -39840,7 +39031,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -39903,7 +39093,6 @@ which contains delta encoded semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="edits">
-			</a>
 			<span class="ts" id="977" data-target="#details-977" data-toggle="collapse">
 				<span class="ident">
 					edits
@@ -39919,13 +39108,11 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="resultId">
-			</a>
 			<span class="ts" id="978" data-target="#details-978" data-toggle="collapse">
 				<span class="ident">
 					resultId
@@ -39943,7 +39130,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -39964,7 +39150,6 @@ which contains delta encoded semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -40019,7 +39204,6 @@ the integer encoded representation of semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="tokenTypes">
-			</a>
 			<span class="ts" id="945" data-target="#details-945" data-toggle="collapse">
 				<span class="ident">
 					tokenTypes
@@ -40035,13 +39219,11 @@ the integer encoded representation of semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="tokenModifiers">
-			</a>
 			<span class="ts" id="946" data-target="#details-946" data-toggle="collapse">
 				<span class="ident">
 					tokenModifiers
@@ -40060,7 +39242,6 @@ the integer encoded representation of semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -40081,7 +39262,6 @@ the integer encoded representation of semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -40133,7 +39313,6 @@ the integer encoded representation of semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="commandLine">
-			</a>
 			<span class="ts" id="1662" data-target="#details-1662" data-toggle="collapse">
 				<span class="ident">
 					commandLine
@@ -40157,7 +39336,6 @@ the integer encoded representation of semantic tokens.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1663" data-target="#details-1663" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -40199,7 +39377,6 @@ the integer encoded representation of semantic tokens.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -40228,7 +39405,6 @@ use the constructor that creates a <code>ShellExecution</code> with the full com
 	<tr>
 		<td>
 			<a name="command">
-			</a>
 			<span class="ts" id="1665" data-target="#details-1665" data-toggle="collapse">
 				<span class="ident">
 					command
@@ -40256,7 +39432,6 @@ use the constructor that creates a <code>ShellExecution</code> with the full com
 	<tr>
 		<td>
 			<a name="args">
-			</a>
 			<span class="ts" id="1666" data-target="#details-1666" data-toggle="collapse">
 				<span class="ident">
 					args
@@ -40285,7 +39460,6 @@ use the constructor that creates a <code>ShellExecution</code> with the full com
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="1667" data-target="#details-1667" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -40327,7 +39501,6 @@ use the constructor that creates a <code>ShellExecution</code> with the full com
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -40627,7 +39800,6 @@ the <a href="https://code.visualstudio.com/docs/editing/intellisense">parameter 
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="1063" data-target="#details-1063" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -40651,7 +39823,6 @@ the <a href="https://code.visualstudio.com/docs/editing/intellisense">parameter 
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="1064" data-target="#details-1064" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -40675,7 +39846,6 @@ the <a href="https://code.visualstudio.com/docs/editing/intellisense">parameter 
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1065" data-target="#details-1065" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -40699,7 +39869,6 @@ the <a href="https://code.visualstudio.com/docs/editing/intellisense">parameter 
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="1066" data-target="#details-1066" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -40849,7 +40018,6 @@ a set of parameters.</p>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="1045" data-target="#details-1045" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -40873,7 +40041,6 @@ a set of parameters.</p>
 	<tr>
 		<td>
 			<a name="documentation">
-			</a>
 			<span class="ts" id="1046" data-target="#details-1046" data-toggle="collapse">
 				<span class="ident">
 					documentation
@@ -40919,7 +40086,6 @@ a set of parameters.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -40996,7 +40162,6 @@ the end of the snippet. Variables are defined with <code>$name</code> and
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="900" data-target="#details-900" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -41014,7 +40179,6 @@ the end of the snippet. Variables are defined with <code>$name</code> and
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -41035,7 +40199,6 @@ the end of the snippet. Variables are defined with <code>$name</code> and
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -41074,7 +40237,6 @@ the <a href="#SnippetString.value"><code>value</code></a> of this snippet string
 	<tr>
 		<td>
 			<a name="values">
-			</a>
 			<span class="ts" id="916" data-target="#details-916" data-toggle="collapse">
 				<span class="ident">
 					values
@@ -41099,7 +40261,6 @@ the <a href="#SnippetString.value"><code>value</code></a> of this snippet string
 	<tr>
 		<td>
 			<a name="number">
-			</a>
 			<span class="ts" id="917" data-target="#details-917" data-toggle="collapse">
 				<span class="ident">
 					number
@@ -41172,7 +40333,6 @@ the <a href="#SnippetString.value"><code>value</code></a> of this snippet string
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="909" data-target="#details-909" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -41205,7 +40365,6 @@ with which a nested snippet can be created.
 	<tr>
 		<td>
 			<a name="number">
-			</a>
 			<span class="ts" id="913" data-target="#details-913" data-toggle="collapse">
 				<span class="ident">
 					number
@@ -41278,7 +40437,6 @@ the <a href="#SnippetString.value"><code>value</code></a> of this snippet string
 	<tr>
 		<td>
 			<a name="number">
-			</a>
 			<span class="ts" id="906" data-target="#details-906" data-toggle="collapse">
 				<span class="ident">
 					number
@@ -41351,7 +40509,6 @@ the <a href="#SnippetString.value"><code>value</code></a> of this snippet string
 	<tr>
 		<td>
 			<a name="string">
-			</a>
 			<span class="ts" id="903" data-target="#details-903" data-toggle="collapse">
 				<span class="ident">
 					string
@@ -41420,7 +40577,6 @@ the <a href="#SnippetString.value"><code>value</code></a> of this snippet string
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="920" data-target="#details-920" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -41448,7 +40604,6 @@ the <a href="#SnippetString.value"><code>value</code></a> of this snippet string
 	<tr>
 		<td>
 			<a name="defaultValue">
-			</a>
 			<span class="ts" id="921" data-target="#details-921" data-toggle="collapse">
 				<span class="ident">
 					defaultValue
@@ -41534,7 +40689,6 @@ be resolved - either a string or a function with which a nested snippet can be c
 	<tr>
 		<td>
 			<a name="location">
-			</a>
 			<span class="ts" id="2517" data-target="#details-2517" data-toggle="collapse">
 				<span class="ident">
 					location
@@ -41549,13 +40703,11 @@ be resolved - either a string or a function with which a nested snippet can be c
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="enabled">
-			</a>
 			<span class="ts" id="2518" data-target="#details-2518" data-toggle="collapse">
 				<span class="ident">
 					enabled
@@ -41573,13 +40725,11 @@ be resolved - either a string or a function with which a nested snippet can be c
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="condition">
-			</a>
 			<span class="ts" id="2519" data-target="#details-2519" data-toggle="collapse">
 				<span class="ident">
 					condition
@@ -41597,13 +40747,11 @@ be resolved - either a string or a function with which a nested snippet can be c
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="hitCondition">
-			</a>
 			<span class="ts" id="2520" data-target="#details-2520" data-toggle="collapse">
 				<span class="ident">
 					hitCondition
@@ -41621,13 +40769,11 @@ be resolved - either a string or a function with which a nested snippet can be c
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="logMessage">
-			</a>
 			<span class="ts" id="2521" data-target="#details-2521" data-toggle="collapse">
 				<span class="ident">
 					logMessage
@@ -41645,7 +40791,6 @@ be resolved - either a string or a function with which a nested snippet can be c
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -41666,7 +40811,6 @@ be resolved - either a string or a function with which a nested snippet can be c
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -41834,7 +40978,6 @@ of this source control, if undefined.</p>
 	<tr>
 		<td>
 			<a name="id">
-			</a>
 			<span class="ts" id="2370" data-target="#details-2370" data-toggle="collapse">
 				<span class="ident">
 					id
@@ -41849,13 +40992,11 @@ of this source control, if undefined.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="2371" data-target="#details-2371" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -41870,7 +41011,6 @@ of this source control, if undefined.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -41891,7 +41031,6 @@ of this source control, if undefined.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -41924,7 +41063,6 @@ of this source control, if undefined.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -42098,7 +41236,6 @@ no <a href="#SourceControlResourceState">source control resource states</a>.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -42307,7 +41444,6 @@ be shown more to the left.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -42340,7 +41476,6 @@ be shown more to the left.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -42373,7 +41508,6 @@ be shown more to the left.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -42409,7 +41543,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="759" data-target="#details-759" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -42433,7 +41566,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="760" data-target="#details-760" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -42457,7 +41589,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="containerName">
-			</a>
 			<span class="ts" id="761" data-target="#details-761" data-toggle="collapse">
 				<span class="ident">
 					containerName
@@ -42481,7 +41612,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="location">
-			</a>
 			<span class="ts" id="762" data-target="#details-762" data-toggle="collapse">
 				<span class="ident">
 					location
@@ -42520,7 +41650,6 @@ interfaces etc.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -42549,7 +41678,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="764" data-target="#details-764" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -42573,7 +41701,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="kind">
-			</a>
 			<span class="ts" id="765" data-target="#details-765" data-toggle="collapse">
 				<span class="ident">
 					kind
@@ -42597,7 +41724,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="766" data-target="#details-766" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -42621,7 +41747,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="767" data-target="#details-767" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -42648,7 +41773,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="containerName">
-			</a>
 			<span class="ts" id="768" data-target="#details-768" data-toggle="collapse">
 				<span class="ident">
 					containerName
@@ -42690,7 +41814,6 @@ interfaces etc.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -42974,7 +42097,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="taskDefinition">
-			</a>
 			<span class="ts" id="1687" data-target="#details-1687" data-toggle="collapse">
 				<span class="ident">
 					taskDefinition
@@ -42989,13 +42111,11 @@ interfaces etc.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="scope">
-			</a>
 			<span class="ts" id="1688" data-target="#details-1688" data-toggle="collapse">
 				<span class="ident">
 					scope
@@ -43027,7 +42147,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="1689" data-target="#details-1689" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -43051,7 +42170,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="source">
-			</a>
 			<span class="ts" id="1690" data-target="#details-1690" data-toggle="collapse">
 				<span class="ident">
 					source
@@ -43075,7 +42193,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="execution">
-			</a>
 			<span class="ts" id="1691" data-target="#details-1691" data-toggle="collapse">
 				<span class="ident">
 					execution
@@ -43110,7 +42227,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="problemMatchers">
-			</a>
 			<span class="ts" id="1692" data-target="#details-1692" data-toggle="collapse">
 				<span class="ident">
 					problemMatchers
@@ -43163,7 +42279,6 @@ interfaces etc.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -43192,7 +42307,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="taskDefinition">
-			</a>
 			<span class="ts" id="1694" data-target="#details-1694" data-toggle="collapse">
 				<span class="ident">
 					taskDefinition
@@ -43207,13 +42321,11 @@ interfaces etc.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="name">
-			</a>
 			<span class="ts" id="1695" data-target="#details-1695" data-toggle="collapse">
 				<span class="ident">
 					name
@@ -43237,7 +42349,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="source">
-			</a>
 			<span class="ts" id="1696" data-target="#details-1696" data-toggle="collapse">
 				<span class="ident">
 					source
@@ -43261,7 +42372,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="execution">
-			</a>
 			<span class="ts" id="1697" data-target="#details-1697" data-toggle="collapse">
 				<span class="ident">
 					execution
@@ -43292,7 +42402,6 @@ interfaces etc.</p>
 	<tr>
 		<td>
 			<a name="problemMatchers">
-			</a>
 			<span class="ts" id="1698" data-target="#details-1698" data-toggle="collapse">
 				<span class="ident">
 					problemMatchers
@@ -43345,7 +42454,6 @@ interfaces etc.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -43543,7 +42651,6 @@ to terminate a task.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -43637,7 +42744,6 @@ The string support the package.json semver notation.</p>
 	<tr>
 		<td>
 			<a name="id">
-			</a>
 			<span class="ts" id="1612" data-target="#details-1612" data-toggle="collapse">
 				<span class="ident">
 					id
@@ -43652,13 +42758,11 @@ The string support the package.json semver notation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="1613" data-target="#details-1613" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -43673,7 +42777,6 @@ The string support the package.json semver notation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -43694,7 +42797,6 @@ The string support the package.json semver notation.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -43873,7 +42975,6 @@ A task provider is registered via #tasks.registerTaskProvider.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1714" data-target="#details-1714" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -43952,7 +43053,6 @@ tasks are always fully resolved. A valid default implementation for the
 	<tr>
 		<td>
 			<a name="task">
-			</a>
 			<span class="ts" id="1717" data-target="#details-1717" data-toggle="collapse">
 				<span class="ident">
 					task
@@ -43976,7 +43076,6 @@ tasks are always fully resolved. A valid default implementation for the
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1718" data-target="#details-1718" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -44181,7 +43280,6 @@ non-zero exit code.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -44214,7 +43312,6 @@ non-zero exit code.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -44241,7 +43338,6 @@ non-zero exit code.</p>
 	<tr>
 		<td>
 			<a name="text">
-			</a>
 			<span class="ts" id="1504" data-target="#details-1504" data-toggle="collapse">
 				<span class="ident">
 					text
@@ -44265,7 +43361,6 @@ non-zero exit code.</p>
 	<tr>
 		<td>
 			<a name="addNewLine">
-			</a>
 			<span class="ts" id="1505" data-target="#details-1505" data-toggle="collapse">
 				<span class="ident">
 					addNewLine
@@ -44313,7 +43408,6 @@ depending on the platform. This defaults to
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -44339,7 +43433,6 @@ depending on the platform. This defaults to
 	<tr>
 		<td>
 			<a name="preserveFocus">
-			</a>
 			<span class="ts" id="1508" data-target="#details-1508" data-toggle="collapse">
 				<span class="ident">
 					preserveFocus
@@ -44385,7 +43478,6 @@ depending on the platform. This defaults to
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -44529,7 +43621,6 @@ depending on OS, user settings, and localization.</p>
 	<tr>
 		<td>
 			<a name="link">
-			</a>
 			<span class="ts" id="1524" data-target="#details-1524" data-toggle="collapse">
 				<span class="ident">
 					link
@@ -44573,7 +43664,6 @@ depending on OS, user settings, and localization.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -44601,7 +43691,6 @@ that could have problems when asynchronous usage may overlap.</p>
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="1520" data-target="#details-1520" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -44625,7 +43714,6 @@ that could have problems when asynchronous usage may overlap.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1521" data-target="#details-1521" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -44871,7 +43959,6 @@ a range. The range will be <a href="#TextDocument.validateRange">adjusted</a>.</
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="63" data-target="#details-63" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -44953,7 +44040,6 @@ spaces. Use <a href="#TextLine.text"><code>TextLine.text</code></a> for more com
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="66" data-target="#details-66" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -44977,7 +44063,6 @@ spaces. Use <a href="#TextLine.text"><code>TextLine.text</code></a> for more com
 	<tr>
 		<td>
 			<a name="regex">
-			</a>
 			<span class="ts" id="67" data-target="#details-67" data-toggle="collapse">
 				<span class="ident">
 					regex
@@ -45058,7 +44143,6 @@ document are not reflected.</p>
 	<tr>
 		<td>
 			<a name="line">
-			</a>
 			<span class="ts" id="52" data-target="#details-52" data-toggle="collapse">
 				<span class="ident">
 					line
@@ -45136,7 +44220,6 @@ document are not reflected.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="54" data-target="#details-54" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -45209,7 +44292,6 @@ document are not reflected.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="57" data-target="#details-57" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -45277,7 +44359,6 @@ document are not reflected.</p>
 	<tr>
 		<td>
 			<a name="offset">
-			</a>
 			<span class="ts" id="60" data-target="#details-60" data-toggle="collapse">
 				<span class="ident">
 					offset
@@ -45392,7 +44473,6 @@ will return false.
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="73" data-target="#details-73" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -45460,7 +44540,6 @@ will return false.
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="70" data-target="#details-70" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -45623,7 +44702,6 @@ identical to the provided text due to end-of-line-sequence normalization.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="495" data-target="#details-495" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -45651,7 +44729,6 @@ identical to the provided text due to end-of-line-sequence normalization.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="496" data-target="#details-496" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -45843,7 +44920,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2280" data-target="#details-2280" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -45891,7 +44967,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -45918,7 +44993,6 @@ in an asynchronous manner:</p>
 	<tr>
 		<td>
 			<a name="thenable">
-			</a>
 			<span class="ts" id="2282" data-target="#details-2282" data-toggle="collapse">
 				<span class="ident">
 					thenable
@@ -45962,7 +45036,6 @@ in an asynchronous manner:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -45998,7 +45071,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="821" data-target="#details-821" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -46066,7 +45138,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="817" data-target="#details-817" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -46090,7 +45161,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="newText">
-			</a>
 			<span class="ts" id="818" data-target="#details-818" data-toggle="collapse">
 				<span class="ident">
 					newText
@@ -46158,7 +45228,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="813" data-target="#details-813" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -46182,7 +45251,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="newText">
-			</a>
 			<span class="ts" id="814" data-target="#details-814" data-toggle="collapse">
 				<span class="ident">
 					newText
@@ -46250,7 +45318,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="eol">
-			</a>
 			<span class="ts" id="824" data-target="#details-824" data-toggle="collapse">
 				<span class="ident">
 					eol
@@ -46320,7 +45387,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="830" data-target="#details-830" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -46344,7 +45410,6 @@ to a document.</p>
 	<tr>
 		<td>
 			<a name="newText">
-			</a>
 			<span class="ts" id="831" data-target="#details-831" data-toggle="collapse">
 				<span class="ident">
 					newText
@@ -46383,7 +45448,6 @@ to a document.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -46502,7 +45566,6 @@ callback executes.</p>
 	<tr>
 		<td>
 			<a name="callback">
-			</a>
 			<span class="ts" id="347" data-target="#details-347" data-toggle="collapse">
 				<span class="ident">
 					callback
@@ -46535,7 +45598,6 @@ callback executes.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="351" data-target="#details-351" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -46628,7 +45690,6 @@ This method shows unexpected behavior and will be removed in the next major upda
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -46656,7 +45717,6 @@ or accept the snippet.</p>
 	<tr>
 		<td>
 			<a name="snippet">
-			</a>
 			<span class="ts" id="357" data-target="#details-357" data-toggle="collapse">
 				<span class="ident">
 					snippet
@@ -46680,7 +45740,6 @@ or accept the snippet.</p>
 	<tr>
 		<td>
 			<a name="location">
-			</a>
 			<span class="ts" id="358" data-target="#details-358" data-toggle="collapse">
 				<span class="ident">
 					location
@@ -46728,7 +45787,6 @@ or accept the snippet.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="359" data-target="#details-359" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -46811,7 +45869,6 @@ that the snippet is completely filled-in or accepted.
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="369" data-target="#details-369" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -46835,7 +45892,6 @@ that the snippet is completely filled-in or accepted.
 	<tr>
 		<td>
 			<a name="revealType">
-			</a>
 			<span class="ts" id="370" data-target="#details-370" data-toggle="collapse">
 				<span class="ident">
 					revealType
@@ -46881,7 +45937,6 @@ that the snippet is completely filled-in or accepted.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -46911,7 +45966,6 @@ the given <a href="#TextEditorDecorationType">decoration type</a>, they will be 
 	<tr>
 		<td>
 			<a name="decorationType">
-			</a>
 			<span class="ts" id="365" data-target="#details-365" data-toggle="collapse">
 				<span class="ident">
 					decorationType
@@ -46935,7 +45989,6 @@ the given <a href="#TextEditorDecorationType">decoration type</a>, they will be 
 	<tr>
 		<td>
 			<a name="rangesOrOptions">
-			</a>
 			<span class="ts" id="366" data-target="#details-366" data-toggle="collapse">
 				<span class="ident">
 					rangesOrOptions
@@ -46987,7 +46040,6 @@ the given <a href="#TextEditorDecorationType">decoration type</a>, they will be 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -47016,7 +46068,6 @@ the given <a href="#TextEditorDecorationType">decoration type</a>, they will be 
 	<tr>
 		<td>
 			<a name="column">
-			</a>
 			<span class="ts" id="373" data-target="#details-373" data-toggle="collapse">
 				<span class="ident">
 					column
@@ -47063,7 +46114,6 @@ This method shows unexpected behavior and will be removed in the next major upda
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -47169,7 +46219,6 @@ sharing the same <a href="#DecorationRenderOptions">styling options</a> in a <a 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -47206,7 +46255,6 @@ they can be applied on a <a href="#TextDocument">document</a> associated with a 
 	<tr>
 		<td>
 			<a name="location">
-			</a>
 			<span class="ts" id="390" data-target="#details-390" data-toggle="collapse">
 				<span class="ident">
 					location
@@ -47249,7 +46297,6 @@ they can be applied on a <a href="#TextDocument">document</a> associated with a 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -47277,7 +46324,6 @@ Although the equivalent text edit can be made with <a href="#TextEditorEdit.repl
 	<tr>
 		<td>
 			<a name="location">
-			</a>
 			<span class="ts" id="386" data-target="#details-386" data-toggle="collapse">
 				<span class="ident">
 					location
@@ -47301,7 +46347,6 @@ Although the equivalent text edit can be made with <a href="#TextEditorEdit.repl
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="387" data-target="#details-387" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -47340,7 +46385,6 @@ Although the equivalent text edit can be made with <a href="#TextEditorEdit.repl
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -47367,7 +46411,6 @@ You can use \r\n or \n in <code>value</code> and they will be normalized to the 
 	<tr>
 		<td>
 			<a name="location">
-			</a>
 			<span class="ts" id="382" data-target="#details-382" data-toggle="collapse">
 				<span class="ident">
 					location
@@ -47399,7 +46442,6 @@ You can use \r\n or \n in <code>value</code> and they will be normalized to the 
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="383" data-target="#details-383" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -47442,7 +46484,6 @@ You can use \r\n or \n in <code>value</code> and they will be normalized to the 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -47468,7 +46509,6 @@ You can use \r\n or \n in <code>value</code> and they will be normalized to the 
 	<tr>
 		<td>
 			<a name="endOfLine">
-			</a>
 			<span class="ts" id="393" data-target="#details-393" data-toggle="collapse">
 				<span class="ident">
 					endOfLine
@@ -47511,7 +46551,6 @@ You can use \r\n or \n in <code>value</code> and they will be normalized to the 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -48200,7 +47239,6 @@ Using a theme color is preferred over a custom color as it gives theme authors a
 	<tr>
 		<td>
 			<a name="id">
-			</a>
 			<span class="ts" id="250" data-target="#details-250" data-toggle="collapse">
 				<span class="ident">
 					id
@@ -48243,7 +47281,6 @@ Using a theme color is preferred over a custom color as it gives theme authors a
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -48300,7 +47337,6 @@ and they use the <code>$(&lt;name&gt;)</code>-syntax, for instance <code>quickPi
 	<tr>
 		<td>
 			<a name="id">
-			</a>
 			<span class="ts" id="258" data-target="#details-258" data-toggle="collapse">
 				<span class="ident">
 					id
@@ -48328,7 +47364,6 @@ and they use the <code>$(&lt;name&gt;)</code>-syntax, for instance <code>quickPi
 	<tr>
 		<td>
 			<a name="color">
-			</a>
 			<span class="ts" id="259" data-target="#details-259" data-toggle="collapse">
 				<span class="ident">
 					color
@@ -48378,7 +47413,6 @@ and they use the <code>$(&lt;name&gt;)</code>-syntax, for instance <code>quickPi
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -48443,7 +47477,6 @@ To signal that root has changed, do not pass any argument or pass <code>undefine
 	<tr>
 		<td>
 			<a name="element">
-			</a>
 			<span class="ts" id="2076" data-target="#details-2076" data-toggle="collapse">
 				<span class="ident">
 					element
@@ -48529,7 +47562,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 	<tr>
 		<td>
 			<a name="element">
-			</a>
 			<span class="ts" id="2079" data-target="#details-2079" data-toggle="collapse">
 				<span class="ident">
 					element
@@ -48606,7 +47638,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 	<tr>
 		<td>
 			<a name="element">
-			</a>
 			<span class="ts" id="2073" data-target="#details-2073" data-toggle="collapse">
 				<span class="ident">
 					element
@@ -48694,7 +47725,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 	<tr>
 		<td>
 			<a name="label">
-			</a>
 			<span class="ts" id="2096" data-target="#details-2096" data-toggle="collapse">
 				<span class="ident">
 					label
@@ -48718,7 +47748,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 	<tr>
 		<td>
 			<a name="collapsibleState">
-			</a>
 			<span class="ts" id="2097" data-target="#details-2097" data-toggle="collapse">
 				<span class="ident">
 					collapsibleState
@@ -48763,7 +47792,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -48788,7 +47816,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 	<tr>
 		<td>
 			<a name="resourceUri">
-			</a>
 			<span class="ts" id="2099" data-target="#details-2099" data-toggle="collapse">
 				<span class="ident">
 					resourceUri
@@ -48816,7 +47843,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 	<tr>
 		<td>
 			<a name="collapsibleState">
-			</a>
 			<span class="ts" id="2100" data-target="#details-2100" data-toggle="collapse">
 				<span class="ident">
 					collapsibleState
@@ -48861,7 +47887,6 @@ Return <code>null</code> or <code>undefined</code> if <code>element</code> is a 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -49066,7 +48091,6 @@ instances of Disposable.</p>
 	<tr>
 		<td>
 			<a name="disposableLikes">
-			</a>
 			<span class="ts" id="2058" data-target="#details-2058" data-toggle="collapse">
 				<span>
 					...
@@ -49147,7 +48171,6 @@ on dispose.</p>
 	<tr>
 		<td>
 			<a name="callOnDispose">
-			</a>
 			<span class="ts" id="2065" data-target="#details-2065" data-toggle="collapse">
 				<span class="ident">
 					callOnDispose
@@ -49186,7 +48209,6 @@ on dispose.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -49266,7 +48288,6 @@ Changes to the title property will be properly reflected in the UI in the title 
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -49299,7 +48320,6 @@ In order to expand the revealed element, set the option <code>expand</code> to <
 	<tr>
 		<td>
 			<a name="element">
-			</a>
 			<span class="ts" id="2050" data-target="#details-2050" data-toggle="collapse">
 				<span class="ident">
 					element
@@ -49314,13 +48334,11 @@ In order to expand the revealed element, set the option <code>expand</code> to <
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="2051" data-target="#details-2051" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -49352,7 +48370,6 @@ In order to expand the revealed element, set the option <code>expand</code> to <
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -49378,7 +48395,6 @@ In order to expand the revealed element, set the option <code>expand</code> to <
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -49500,7 +48516,6 @@ the go to type definition feature.</p>
 	<tr>
 		<td>
 			<a name="document">
-			</a>
 			<span class="ts" id="652" data-target="#details-652" data-toggle="collapse">
 				<span class="ident">
 					document
@@ -49524,7 +48539,6 @@ the go to type definition feature.</p>
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="653" data-target="#details-653" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -49548,7 +48562,6 @@ the go to type definition feature.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="654" data-target="#details-654" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -49683,7 +48696,6 @@ bad.fragment === &#39;/project1&#39;;
 	<tr>
 		<td>
 			<a name="path">
-			</a>
 			<span class="ts" id="401" data-target="#details-401" data-toggle="collapse">
 				<span class="ident">
 					path
@@ -49766,7 +48778,6 @@ so that is true: <code>joinPath(Uri.file(&#39;file:///c:/root&#39;), &#39;../../
 	<tr>
 		<td>
 			<a name="base">
-			</a>
 			<span class="ts" id="404" data-target="#details-404" data-toggle="collapse">
 				<span class="ident">
 					base
@@ -49790,7 +48801,6 @@ so that is true: <code>joinPath(Uri.file(&#39;file:///c:/root&#39;), &#39;../../
 	<tr>
 		<td>
 			<a name="pathSegments">
-			</a>
 			<span class="ts" id="405" data-target="#details-405" data-toggle="collapse">
 				<span>
 					...
@@ -49869,7 +48879,6 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="397" data-target="#details-397" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -49893,7 +48902,6 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 	<tr>
 		<td>
 			<a name="strict">
-			</a>
 			<span class="ts" id="398" data-target="#details-398" data-toggle="collapse">
 				<span class="ident">
 					strict
@@ -49974,7 +48982,6 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 	<tr>
 		<td>
 			<a name="scheme">
-			</a>
 			<span class="ts" id="408" data-target="#details-408" data-toggle="collapse">
 				<span class="ident">
 					scheme
@@ -49989,13 +48996,11 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="authority">
-			</a>
 			<span class="ts" id="409" data-target="#details-409" data-toggle="collapse">
 				<span class="ident">
 					authority
@@ -50010,13 +49015,11 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="path">
-			</a>
 			<span class="ts" id="410" data-target="#details-410" data-toggle="collapse">
 				<span class="ident">
 					path
@@ -50031,13 +49034,11 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="query">
-			</a>
 			<span class="ts" id="411" data-target="#details-411" data-toggle="collapse">
 				<span class="ident">
 					query
@@ -50052,13 +49053,11 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="fragment">
-			</a>
 			<span class="ts" id="412" data-target="#details-412" data-toggle="collapse">
 				<span class="ident">
 					fragment
@@ -50073,7 +49072,6 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -50094,7 +49092,6 @@ as all uris should have a scheme. To avoid breakage of existing code the optiona
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -50236,7 +49233,6 @@ the <code>skipEncoding</code>-argument: <code>uri.toString(true)</code>.</p>
 	<tr>
 		<td>
 			<a name="skipEncoding">
-			</a>
 			<span class="ts" id="430" data-target="#details-430" data-toggle="collapse">
 				<span class="ident">
 					skipEncoding
@@ -50325,7 +49321,6 @@ assert.ok(other.toString() === &#39;after:some/file/path&#39;);
 	<tr>
 		<td>
 			<a name="change">
-			</a>
 			<span class="ts" id="421" data-target="#details-421" data-toggle="collapse">
 				<span class="ident">
 					change
@@ -50436,7 +49431,6 @@ assert.ok(other.toString() === &#39;after:some/file/path&#39;);
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="2023" data-target="#details-2023" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -50451,7 +49445,6 @@ assert.ok(other.toString() === &#39;after:some/file/path&#39;);
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -50477,7 +49470,6 @@ assert.ok(other.toString() === &#39;after:some/file/path&#39;);
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -50665,7 +49657,6 @@ a webview to load the same resource:</p>
 	<tr>
 		<td>
 			<a name="localResource">
-			</a>
 			<span class="ts" id="1884" data-target="#details-1884" data-toggle="collapse">
 				<span class="ident">
 					localResource
@@ -50680,7 +49671,6 @@ a webview to load the same resource:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
@@ -50701,7 +49691,6 @@ a webview to load the same resource:</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -50729,7 +49718,6 @@ background with <code>retainContextWhenHidden</code>).</p>
 	<tr>
 		<td>
 			<a name="message">
-			</a>
 			<span class="ts" id="1881" data-target="#details-1881" data-toggle="collapse">
 				<span class="ident">
 					message
@@ -50773,7 +49761,6 @@ background with <code>retainContextWhenHidden</code>).</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -50958,7 +49945,6 @@ fire the <code>onDispose</code> event.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -50986,7 +49972,6 @@ method moves it to a new column.</p>
 	<tr>
 		<td>
 			<a name="viewColumn">
-			</a>
 			<span class="ts" id="1905" data-target="#details-1905" data-toggle="collapse">
 				<span class="ident">
 					viewColumn
@@ -51017,7 +50002,6 @@ method moves it to a new column.</p>
 	<tr>
 		<td>
 			<a name="preserveFocus">
-			</a>
 			<span class="ts" id="1906" data-target="#details-1906" data-toggle="collapse">
 				<span class="ident">
 					preserveFocus
@@ -51063,7 +50047,6 @@ method moves it to a new column.</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -51176,7 +50159,6 @@ The extension can then restore the old <code>WebviewPanel</code> from this state
 	<tr>
 		<td>
 			<a name="webviewPanel">
-			</a>
 			<span class="ts" id="1915" data-target="#details-1915" data-toggle="collapse">
 				<span class="ident">
 					webviewPanel
@@ -51205,7 +50187,6 @@ serializer must restore the webview's
 	<tr>
 		<td>
 			<a name="state">
-			</a>
 			<span class="ts" id="1916" data-target="#details-1916" data-toggle="collapse">
 				<span class="ident">
 					state
@@ -51384,7 +50365,6 @@ right clicks in a view and unchecks the webview view).</p>
 	<tr>
 		<td>
 			<a name="preserveFocus">
-			</a>
 			<span class="ts" id="1927" data-target="#details-1927" data-toggle="collapse">
 				<span class="ident">
 					preserveFocus
@@ -51430,7 +50410,6 @@ right clicks in a view and unchecks the webview view).</p>
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -51467,7 +50446,6 @@ first loaded or when the user hides and then shows a view again.</p>
 	<tr>
 		<td>
 			<a name="webviewView">
-			</a>
 			<span class="ts" id="1934" data-target="#details-1934" data-toggle="collapse">
 				<span class="ident">
 					webviewView
@@ -51496,7 +50474,6 @@ first loaded or when the user hides and then shows a view again.</p>
 	<tr>
 		<td>
 			<a name="context">
-			</a>
 			<span class="ts" id="1935" data-target="#details-1935" data-toggle="collapse">
 				<span class="ident">
 					context
@@ -51520,7 +50497,6 @@ first loaded or when the user hides and then shows a view again.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="1936" data-target="#details-1936" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -51710,7 +50686,6 @@ const values = config.get(&#39;configurations&#39;);
 	<tr>
 		<td>
 			<a name="section">
-			</a>
 			<span class="ts" id="1334" data-target="#details-1334" data-toggle="collapse">
 				<span class="ident">
 					section
@@ -51794,7 +50769,6 @@ const values = config.get(&#39;configurations&#39;);
 	<tr>
 		<td>
 			<a name="section">
-			</a>
 			<span class="ts" id="1337" data-target="#details-1337" data-toggle="collapse">
 				<span class="ident">
 					section
@@ -51822,7 +50796,6 @@ const values = config.get(&#39;configurations&#39;);
 	<tr>
 		<td>
 			<a name="defaultValue">
-			</a>
 			<span class="ts" id="1338" data-target="#details-1338" data-toggle="collapse">
 				<span class="ident">
 					defaultValue
@@ -51898,7 +50871,6 @@ const values = config.get(&#39;configurations&#39;);
 	<tr>
 		<td>
 			<a name="section">
-			</a>
 			<span class="ts" id="1341" data-target="#details-1341" data-toggle="collapse">
 				<span class="ident">
 					section
@@ -51983,7 +50955,6 @@ and language-specific values (if <a href="#WorkspaceConfiguration">WorkspaceConf
 	<tr>
 		<td>
 			<a name="section">
-			</a>
 			<span class="ts" id="1345" data-target="#details-1345" data-toggle="collapse">
 				<span class="ident">
 					section
@@ -52118,7 +51089,6 @@ and language-specific values (if <a href="#WorkspaceConfiguration">WorkspaceConf
 	<tr>
 		<td>
 			<a name="section">
-			</a>
 			<span class="ts" id="1359" data-target="#details-1359" data-toggle="collapse">
 				<span class="ident">
 					section
@@ -52146,7 +51116,6 @@ and language-specific values (if <a href="#WorkspaceConfiguration">WorkspaceConf
 	<tr>
 		<td>
 			<a name="value">
-			</a>
 			<span class="ts" id="1360" data-target="#details-1360" data-toggle="collapse">
 				<span class="ident">
 					value
@@ -52170,7 +51139,6 @@ and language-specific values (if <a href="#WorkspaceConfiguration">WorkspaceConf
 	<tr>
 		<td>
 			<a name="configurationTarget">
-			</a>
 			<span class="ts" id="1361" data-target="#details-1361" data-toggle="collapse">
 				<span class="ident">
 					configurationTarget
@@ -52213,7 +51181,6 @@ otherwise to [Workspace settings](#ConfigurationTarget.Workspace).
 	<tr>
 		<td>
 			<a name="overrideInLanguage">
-			</a>
 			<span class="ts" id="1362" data-target="#details-1362" data-toggle="collapse">
 				<span class="ident">
 					overrideInLanguage
@@ -52266,7 +51233,6 @@ otherwise to [Workspace settings](#ConfigurationTarget.Workspace).
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -52313,7 +51279,6 @@ multiple resources and documents.</p>
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="871" data-target="#details-871" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -52337,7 +51302,6 @@ multiple resources and documents.</p>
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="872" data-target="#details-872" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -52373,7 +51337,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="876" data-target="#details-876" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -52415,7 +51378,6 @@ be applied successfully.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -52441,7 +51403,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="856" data-target="#details-856" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -52465,7 +51426,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="857" data-target="#details-857" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -52489,7 +51449,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="858" data-target="#details-858" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -52531,7 +51490,6 @@ be applied successfully.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -52557,7 +51515,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="879" data-target="#details-879" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -52581,7 +51538,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="880" data-target="#details-880" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -52605,13 +51561,11 @@ be applied successfully.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="884" data-target="#details-884" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -52653,7 +51607,6 @@ be applied successfully.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -52725,7 +51678,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="868" data-target="#details-868" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -52794,7 +51746,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="861" data-target="#details-861" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -52865,7 +51816,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="850" data-target="#details-850" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -52889,7 +51839,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="position">
-			</a>
 			<span class="ts" id="851" data-target="#details-851" data-toggle="collapse">
 				<span class="ident">
 					position
@@ -52913,7 +51862,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="newText">
-			</a>
 			<span class="ts" id="852" data-target="#details-852" data-toggle="collapse">
 				<span class="ident">
 					newText
@@ -52937,7 +51885,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="853" data-target="#details-853" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -52979,7 +51926,6 @@ be applied successfully.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -53005,7 +51951,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="oldUri">
-			</a>
 			<span class="ts" id="887" data-target="#details-887" data-toggle="collapse">
 				<span class="ident">
 					oldUri
@@ -53029,7 +51974,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="newUri">
-			</a>
 			<span class="ts" id="888" data-target="#details-888" data-toggle="collapse">
 				<span class="ident">
 					newUri
@@ -53053,7 +51997,6 @@ be applied successfully.
 	<tr>
 		<td>
 			<a name="options">
-			</a>
 			<span class="ts" id="889" data-target="#details-889" data-toggle="collapse">
 				<span class="ident">
 					options
@@ -53087,7 +52030,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="893" data-target="#details-893" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -53129,7 +52071,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -53155,7 +52096,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="844" data-target="#details-844" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -53179,7 +52119,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 	<tr>
 		<td>
 			<a name="range">
-			</a>
 			<span class="ts" id="845" data-target="#details-845" data-toggle="collapse">
 				<span class="ident">
 					range
@@ -53203,7 +52142,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 	<tr>
 		<td>
 			<a name="newText">
-			</a>
 			<span class="ts" id="846" data-target="#details-846" data-toggle="collapse">
 				<span class="ident">
 					newText
@@ -53227,7 +52165,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 	<tr>
 		<td>
 			<a name="metadata">
-			</a>
 			<span class="ts" id="847" data-target="#details-847" data-toggle="collapse">
 				<span class="ident">
 					metadata
@@ -53269,7 +52206,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -53295,7 +52231,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 	<tr>
 		<td>
 			<a name="uri">
-			</a>
 			<span class="ts" id="864" data-target="#details-864" data-toggle="collapse">
 				<span class="ident">
 					uri
@@ -53319,7 +52254,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 	<tr>
 		<td>
 			<a name="edits">
-			</a>
 			<span class="ts" id="865" data-target="#details-865" data-toggle="collapse">
 				<span class="ident">
 					edits
@@ -53359,7 +52293,6 @@ ignored. When overwrite and ignoreIfExists are both set overwrite wins.
 		</td>
 		<td>
 			<div class="comment">
-			</div>
 		</td>
 	</tr>
 </table>
@@ -53532,7 +52465,6 @@ strict matching.</p>
 	<tr>
 		<td>
 			<a name="query">
-			</a>
 			<span class="ts" id="795" data-target="#details-795" data-toggle="collapse">
 				<span class="ident">
 					query
@@ -53556,7 +52488,6 @@ strict matching.</p>
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="796" data-target="#details-796" data-toggle="collapse">
 				<span class="ident">
 					token
@@ -53641,7 +52572,6 @@ performance.</p>
 	<tr>
 		<td>
 			<a name="symbol">
-			</a>
 			<span class="ts" id="799" data-target="#details-799" data-toggle="collapse">
 				<span class="ident">
 					symbol
@@ -53670,7 +52600,6 @@ earlier call to
 	<tr>
 		<td>
 			<a name="token">
-			</a>
 			<span class="ts" id="800" data-target="#details-800" data-toggle="collapse">
 				<span class="ident">
 					token
